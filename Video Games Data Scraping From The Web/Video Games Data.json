@@ -1,7 +1,11 @@
 [
   {
     "Title": "The Oregon Trail",
-    "Developer(s)": "Don Rawitsch, Bill Heinemann, and Paul Dillenberger",
+    "Developer(s)": [
+      "Don Rawitsch",
+      "Bill Heinemann",
+      "Paul Dillenberger"
+    ],
     "Publisher(s)": "MECC",
     "Series": "The Oregon Trail",
     "Platform(s)": [
@@ -38,7 +42,10 @@
       "EU: 1973"
     ],
     "Genre(s)": "Sports",
-    "Mode(s)": "Single-player, multiplayer"
+    "Mode(s)": [
+      "Single-player",
+      "multiplayer"
+    ]
   },
   {
     "Title": "Zork",
@@ -75,7 +82,18 @@
       "TI-99/4A",
       "Commodore Plus/4"
     ],
-    "Release": "1977 (PDP-10) 1980 (, Zork I, ) 1981 (, Zork II, ) 1982 (, Zork III, )",
+    "Release": [
+      "1977 (PDP-10)",
+      "1980 (",
+      "Zork I",
+      ")",
+      "1981 (",
+      "Zork II",
+      ")",
+      "1982 (",
+      "Zork III",
+      ")"
+    ],
     "Genre(s)": "Text adventure",
     "Mode(s)": "Single-player"
   },
@@ -153,10 +171,15 @@
   {
     "Title": "Adventure",
     "Developer(s)": "Atari, Inc.",
-    "Publisher(s)": "Atari, Inc.",
+    "Publisher(s)": [
+      "Atari",
+      "Inc."
+    ],
     "Designer(s)": "Warren Robinett",
     "Platform(s)": "Atari 2600",
-    "Release": "July 1980",
+    "Release": [
+      "July 1980"
+    ],
     "Genre(s)": "Action-adventure",
     "Mode(s)": "Single-player"
   },
@@ -171,7 +194,9 @@
     ],
     "Designer(s)": "Dave Theurer",
     "Programmer(s)": "Rich Adam Dave Theurer",
-    "Composer(s)": "Rich Adam",
+    "Composer(s)": [
+      "Rich Adam"
+    ],
     "Platform(s)": [
       "Arcade",
       "Atari 2600",
@@ -193,7 +218,10 @@
       "EU: 1995"
     ],
     "Genre(s)": "Shoot 'em up",
-    "Mode(s)": "Up to 2 players, alternating turns"
+    "Mode(s)": [
+      "Up to 2 players",
+      "alternating turns"
+    ]
   },
   {
     "Title": "Pac-Man",
@@ -203,8 +231,14 @@
       "NA/FRA: Midway"
     ],
     "Designer(s)": "Toru Iwatani",
-    "Programmer(s)": "Shigeo Funaki Shigeichi Ishimura",
-    "Composer(s)": "Shigeichi Ishimura Toshio Kai",
+    "Programmer(s)": [
+      "Shigeo Funaki",
+      "Shigeichi Ishimura"
+    ],
+    "Composer(s)": [
+      "Shigeichi Ishimura",
+      "Toshio Kai"
+    ],
     "Series": "Pac-Man",
     "Platform(s)": [
       "Arcade"
@@ -318,8 +352,12 @@
       "Shigeru Miyamoto",
       "Gunpei Yokoi"
     ],
-    "Artist(s)": "Shigeru Miyamoto",
-    "Composer(s)": "Yukio Kaneoka",
+    "Artist(s)": [
+      "Shigeru Miyamoto"
+    ],
+    "Composer(s)": [
+      "Yukio Kaneoka"
+    ],
     "Series": [
       "Donkey Kong",
       "Mario"
@@ -341,8 +379,12 @@
       "JP/EU: Konami/Sega",
       "NA: Sega/Gremlin Industries"
     ],
-    "Series": "Frogger",
-    "Platform(s)": "Arcade",
+    "Series": [
+      "Frogger"
+    ],
+    "Platform(s)": [
+      "Arcade"
+    ],
     "Release": [
       "JP: June 5, 1981",
       "NA: September 1981",
@@ -358,10 +400,18 @@
       "JP/EU: Namco",
       "NA: Midway Manufacturing"
     ],
-    "Director(s)": "Shigeru Yokoyama",
-    "Designer(s)": "Hiroshi Ono",
-    "Programmer(s)": "Tetsu Ogawa",
-    "Composer(s)": "Nobuyuki Ohnogi",
+    "Director(s)": [
+      "Shigeru Yokoyama"
+    ],
+    "Designer(s)": [
+      "Hiroshi Ono"
+    ],
+    "Programmer(s)": [
+      "Tetsu Ogawa"
+    ],
+    "Composer(s)": [
+      "Nobuyuki Ohnogi"
+    ],
     "Series": "Galaxian",
     "Platform(s)": [
       "Arcade",
@@ -405,7 +455,10 @@
     ],
     "Release": "October1981 ( 1981-10 ) : Arcade 1985: Spectrum, BBC 1987: Amstrad 1989: Atari ST",
     "Genre(s)": "Tube shooter",
-    "Mode(s)": "Up to 2 players, alternating turns"
+    "Mode(s)": [
+      "Up to 2 players",
+      "alternating turns"
+    ]
   },
   {
     "Title": "Joust",
@@ -418,9 +471,14 @@
       "Atari Corporation"
     ],
     "Designer(s)": "John Newcomer",
-    "Programmer(s)": "Bill Pfutzenreuter",
+    "Programmer(s)": [
+      "Bill Pfutzenreuter"
+    ],
     "Artist(s)": "Jan Hendricks Python Anghelo",
-    "Composer(s)": "Tim Murphy John Kotlarik (sounds)",
+    "Composer(s)": [
+      "Tim Murphy",
+      "John Kotlarik (sounds)"
+    ],
     "Platform(s)": [
       "Arcade",
       "Apple II",
@@ -440,7 +498,9 @@
       "JP: 1984"
     ],
     "Genre(s)": "Action",
-    "Mode(s)": "Up to 2 players simultaneously"
+    "Mode(s)": [
+      "Up to 2 players simultaneously"
+    ]
   },
   {
     "Title": "Ms. Pac-Man",
@@ -449,8 +509,12 @@
       "Midway"
     ],
     "Publisher(s)": "Midway",
-    "Designer(s)": "Steve Golson",
-    "Composer(s)": "Chris Rode",
+    "Designer(s)": [
+      "Steve Golson"
+    ],
+    "Composer(s)": [
+      "Chris Rode"
+    ],
     "Series": "Pac-Man",
     "Platform(s)": [
       "Arcade",
@@ -546,8 +610,12 @@
       "SystemSoft",
       "Irem"
     ],
-    "Programmer(s)": "Shinichi Nakamoto (NES)",
-    "Composer(s)": "Isamu Hirano (NES)",
+    "Programmer(s)": [
+      "Shinichi Nakamoto (NES)"
+    ],
+    "Composer(s)": [
+      "Isamu Hirano (NES)"
+    ],
     "Platform(s)": [
       "Apple II",
       "Atari 8-bit",
@@ -595,9 +663,16 @@
       "NA/JP/UK: Atari, Inc.",
       "SPA: Sega, S.A. SONIC"
     ],
-    "Designer(s)": "Mike Hally",
-    "Programmer(s)": "Greg Rivera Norm Avellar",
-    "Composer(s)": "Earl Vickers",
+    "Designer(s)": [
+      "Mike Hally"
+    ],
+    "Programmer(s)": [
+      "Greg Rivera",
+      "Norm Avellar"
+    ],
+    "Composer(s)": [
+      "Earl Vickers"
+    ],
     "Series": "Star Wars",
     "Platform(s)": "Arcade",
     "Release": [
@@ -640,7 +715,9 @@
       "Atari ST",
       "Nintendo Entertainment System"
     ],
-    "Release": "20 September 1984",
+    "Release": [
+      "20 September 1984"
+    ],
     "Genre(s)": "Space trading and combat simulator",
     "Mode(s)": "Single player"
   },
@@ -650,10 +727,17 @@
       "Atari Games",
       "Midway Games"
     ],
-    "Publisher(s)": "Atari Games",
+    "Publisher(s)": [
+      "Atari Games"
+    ],
     "Designer(s)": "Mark Cerny",
-    "Programmer(s)": "Bob Flanagan",
-    "Artist(s)": "Mark Cerny Sam Comstock",
+    "Programmer(s)": [
+      "Bob Flanagan"
+    ],
+    "Artist(s)": [
+      "Mark Cerny",
+      "Sam Comstock"
+    ],
     "Composer(s)": "Brad Fuller Hal Canon",
     "Platform(s)": [
       "Arcade",
@@ -677,7 +761,9 @@
       "Platform",
       "racing"
     ],
-    "Mode(s)": "Up to 2 players simultaneously",
+    "Mode(s)": [
+      "Up to 2 players simultaneously"
+    ],
     "Arcade system": "Atari System 1"
   },
   {
@@ -714,8 +800,15 @@
       "JP: Namco"
     ],
     "Designer(s)": "Ed Logg",
-    "Programmer(s)": "Bob Flanagan",
-    "Artist(s)": "Sam Comstock Susan G. McBride Alan J. Murphy Will Noble",
+    "Programmer(s)": [
+      "Bob Flanagan"
+    ],
+    "Artist(s)": [
+      "Sam Comstock",
+      "Susan G. McBride",
+      "Alan J. Murphy",
+      "Will Noble"
+    ],
     "Composer(s)": [
       "Ben Daglish",
       "Tiertex"
@@ -760,9 +853,15 @@
       "NA: Taito America"
     ],
     "Director(s)": "Tokuro Fujiwara",
-    "Programmer(s)": "Toshio Arima",
-    "Artist(s)": "Masayoshi Kurokawa",
-    "Composer(s)": "Ayako Mori",
+    "Programmer(s)": [
+      "Toshio Arima"
+    ],
+    "Artist(s)": [
+      "Masayoshi Kurokawa"
+    ],
+    "Composer(s)": [
+      "Ayako Mori"
+    ],
     "Series": "Ghosts 'n Goblins",
     "Platform(s)": [
       "Arcade",
@@ -802,7 +901,9 @@
     "Developer(s)": "Nintendo R&D4",
     "Publisher(s)": "Nintendo",
     "Director(s)": "Shigeru Miyamoto",
-    "Producer(s)": "Shigeru Miyamoto",
+    "Producer(s)": [
+      "Shigeru Miyamoto"
+    ],
     "Designer(s)": "Shigeru Miyamoto Takashi Tezuka",
     "Programmer(s)": [
       "Toshihiko Nakago",
@@ -839,8 +940,12 @@
       "EU: Electrocoin"
     ],
     "Designer(s)": "Fukio Mitsuji",
-    "Composer(s)": "Tadashi Kimijima",
-    "Series": "Bubble Bobble",
+    "Composer(s)": [
+      "Tadashi Kimijima"
+    ],
+    "Series": [
+      "Bubble Bobble"
+    ],
     "Platform(s)": [
       "Arcade",
       "Nintendo Entertainment System",
@@ -870,7 +975,9 @@
       "Single-player",
       "multiplayer"
     ],
-    "Arcade system": "Taito Bubble Bobble"
+    "Arcade system": [
+      "Taito Bubble Bobble"
+    ]
   },
   {
     "Title": "The Legend of Zelda",
@@ -880,8 +987,12 @@
       "Shigeru Miyamoto",
       "Takashi Tezuka"
     ],
-    "Producer(s)": "Shigeru Miyamoto",
-    "Designer(s)": "Takashi Tezuka",
+    "Producer(s)": [
+      "Shigeru Miyamoto"
+    ],
+    "Designer(s)": [
+      "Takashi Tezuka"
+    ],
     "Programmer(s)": [
       "Toshihiko Nakago",
       "Yasunari Soejima",
@@ -912,7 +1023,9 @@
     ],
     "Designer(s)": "Yu Suzuki",
     "Composer(s)": "Hiroshi Kawaguchi",
-    "Series": "Out Run",
+    "Series": [
+      "Out Run"
+    ],
     "Platform(s)": [
       "Arcade",
       "NEC PC-8801",
@@ -941,7 +1054,9 @@
   {
     "Title": "Contra",
     "Developer(s)": "Konami",
-    "Publisher(s)": "Konami",
+    "Publisher(s)": [
+      "Konami"
+    ],
     "Designer(s)": "Arcade version Koji Hiroshita NES version Shigeharu Umezaki Shinji Kitamoto",
     "Composer(s)": "Arcade version Kazuki Muraoka NES/Famicom version Hidenori Maezawa Kiyohiro Sada",
     "Series": "Contra",
@@ -966,11 +1081,29 @@
       "Taito"
     ],
     "Director(s)": "Yoshihisa Kishimoto Shinichi Saito",
-    "Producer(s)": "Yoshihisa Kishimoto",
-    "Designer(s)": "Koji Kai Shinichi Saito",
-    "Programmer(s)": "Hiroshi Satoh Tomoyasu Koga Nari Nishimura Hideki Kaneda",
-    "Artist(s)": "Kumiko Mukai Mizuho Yama Akemi Tasaki Misae Nakaya Masato Shiroto",
-    "Composer(s)": "Kazunaka Yamane",
+    "Producer(s)": [
+      "Yoshihisa Kishimoto"
+    ],
+    "Designer(s)": [
+      "Koji Kai",
+      "Shinichi Saito"
+    ],
+    "Programmer(s)": [
+      "Hiroshi Satoh",
+      "Tomoyasu Koga",
+      "Nari Nishimura",
+      "Hideki Kaneda"
+    ],
+    "Artist(s)": [
+      "Kumiko Mukai",
+      "Mizuho Yama",
+      "Akemi Tasaki",
+      "Misae Nakaya",
+      "Masato Shiroto"
+    ],
+    "Composer(s)": [
+      "Kazunaka Yamane"
+    ],
     "Series": "Double Dragon",
     "Platform(s)": [
       "Arcade"
@@ -985,8 +1118,13 @@
       "EU: 1990"
     ],
     "Genre(s)": "Beat 'em up",
-    "Mode(s)": "Up to 2 players, simultaneous",
-    "Arcade system": "Custom"
+    "Mode(s)": [
+      "Up to 2 players",
+      "simultaneous"
+    ],
+    "Arcade system": [
+      "Custom"
+    ]
   },
   {
     "Title": "Punch-Out!!",
@@ -994,8 +1132,13 @@
     "Publisher(s)": "Nintendo",
     "Director(s)": "Genyo Takeda",
     "Producer(s)": "Minoru Arakawa",
-    "Designer(s)": "Kazuo Yoneyama Mayumi Hirota",
-    "Programmer(s)": "Masato Hatakeyama",
+    "Designer(s)": [
+      "Kazuo Yoneyama",
+      "Mayumi Hirota"
+    ],
+    "Programmer(s)": [
+      "Masato Hatakeyama"
+    ],
     "Artist(s)": "Makoto Wada",
     "Composer(s)": [
       "Akito Nakatsuka",
@@ -1026,8 +1169,12 @@
       "NA: Nintendo",
       "EU: Electrocoin"
     ],
-    "Producer(s)": "Kinte",
-    "Designer(s)": "Abiko",
+    "Producer(s)": [
+      "Kinte"
+    ],
+    "Designer(s)": [
+      "Abiko"
+    ],
     "Programmer(s)": [
       "Sum",
       "Misachin"
@@ -1036,7 +1183,9 @@
       "Akio",
       "Yoshige"
     ],
-    "Composer(s)": "Masato Ishizaki",
+    "Composer(s)": [
+      "Masato Ishizaki"
+    ],
     "Series": "R-Type",
     "Platform(s)": [
       "Arcade"
@@ -1049,17 +1198,25 @@
       "Single-player",
       "multiplayer"
     ],
-    "Arcade system": "Irem M72"
+    "Arcade system": [
+      "Irem M72"
+    ]
   },
   {
     "Title": "Mega Man 2",
     "Developer(s)": "Capcom",
-    "Publisher(s)": "Capcom",
+    "Publisher(s)": [
+      "Capcom"
+    ],
     "Director(s)": "Akira Kitamura",
     "Producer(s)": "Tokuro Fujiwara",
-    "Programmer(s)": "Nobuyuki Matsushima",
+    "Programmer(s)": [
+      "Nobuyuki Matsushima"
+    ],
     "Artist(s)": "Yasuaki Kishimoto Naoya Tomita Keiji Inafune Akira Kitamura",
-    "Composer(s)": "Takashi Tateishi",
+    "Composer(s)": [
+      "Takashi Tateishi"
+    ],
     "Series": "Mega Man",
     "Platform(s)": [
       "NES/Famicom",
@@ -1081,10 +1238,14 @@
   {
     "Title": "Ninja Gaiden",
     "Developer(s)": "Tecmo",
-    "Publisher(s)": "Tecmo",
+    "Publisher(s)": [
+      "Tecmo"
+    ],
     "Director(s)": "Hideo Yoshizawa",
     "Artist(s)": "Masato Kato",
-    "Writer(s)": "Hideo Yoshizawa",
+    "Writer(s)": [
+      "Hideo Yoshizawa"
+    ],
     "Composer(s)": "Keiji Yamagishi Ryuichi Nitta",
     "Series": "Ninja Gaiden",
     "Platform(s)": [
@@ -1113,7 +1274,9 @@
       "Shigeru Miyamoto",
       "Takashi Tezuka"
     ],
-    "Producer(s)": "Shigeru Miyamoto",
+    "Producer(s)": [
+      "Shigeru Miyamoto"
+    ],
     "Designer(s)": [
       "Shigeru Miyamoto",
       "Takashi Tezuka",
@@ -1121,7 +1284,9 @@
       "Hideki Konno",
       "Kensuke Tanabe"
     ],
-    "Programmer(s)": "Toshihiko Nakago",
+    "Programmer(s)": [
+      "Toshihiko Nakago"
+    ],
     "Artist(s)": [
       "Takashi Tezuka",
       "Hideki Konno",
@@ -1228,7 +1393,9 @@
       "EU: U.S. Gold"
     ],
     "Director(s)": "Ron Gilbert",
-    "Producer(s)": "Greg Hammond",
+    "Producer(s)": [
+      "Greg Hammond"
+    ],
     "Designer(s)": [
       "Ron Gilbert",
       "Dave Grossman",
@@ -1273,9 +1440,15 @@
       "Tower Studios",
       "SOFEL"
     ],
-    "Designer(s)": "Eric Matthews",
-    "Programmer(s)": "Robert Trevellyan",
-    "Artist(s)": "Daniel Malone",
+    "Designer(s)": [
+      "Eric Matthews"
+    ],
+    "Programmer(s)": [
+      "Robert Trevellyan"
+    ],
+    "Artist(s)": [
+      "Daniel Malone"
+    ],
     "Composer(s)": "Nation 12",
     "Platform(s)": [
       "Acorn Archimedes",
@@ -1294,7 +1467,9 @@
       "iPhone",
       "Symbian"
     ],
-    "Release": "1990",
+    "Release": [
+      "1990"
+    ],
     "Genre(s)": [
       "Sports",
       "Action"
@@ -1314,7 +1489,9 @@
       "Katsuya Eguchi",
       "Hideki Konno"
     ],
-    "Programmer(s)": "Toshihiko Nakago",
+    "Programmer(s)": [
+      "Toshihiko Nakago"
+    ],
     "Artist(s)": "Shigefumi Hino",
     "Composer(s)": "Koji Kondo",
     "Series": "Super Mario",
@@ -1343,7 +1520,9 @@
       "Headup Games"
     ],
     "Designer(s)": "Éric Chahi",
-    "Composer(s)": "Jean-François Freitas",
+    "Composer(s)": [
+      "Jean-François Freitas"
+    ],
     "Platform(s)": [
       "Amiga",
       "Atari ST",
@@ -1388,15 +1567,18 @@
   },
   {
     "Title": "Civilization",
-    "Developer(s)": [
-      "MicroProse",
-      "Koei"
-    ],
-    "Publisher(s)": "MicroProse",
+    "Developer(s)": "MicroProse",
+    "Publisher(s)": "MicroProse Koei (Super NES)",
     "Producer(s)": "Sid Meier",
     "Designer(s)": "Sid Meier Bruce Shelley",
-    "Programmer(s)": "Sid Meier",
-    "Writer(s)": "B. C. Milligan   Jeffery L. Briggs   Bruce Campbell Shelley",
+    "Programmer(s)": [
+      "Sid Meier"
+    ],
+    "Writer(s)": [
+      "B. C. Milligan",
+      "Jeffery L. Briggs",
+      "Bruce Campbell Shelley"
+    ],
     "Composer(s)": "Jeffery L. Briggs",
     "Series": "Civilization",
     "Platform(s)": [
@@ -1410,7 +1592,9 @@
       "Sony PlayStation",
       "Sega Saturn"
     ],
-    "Release": "September 1991",
+    "Release": [
+      "September 1991"
+    ],
     "Genre(s)": "Turn-based strategy",
     "Mode(s)": "Single-player"
   },
@@ -1490,7 +1674,10 @@
       "Dave Grossman",
       "Tim Schafer"
     ],
-    "Writer(s)": "Dave Grossman Tim Schafer",
+    "Writer(s)": [
+      "Dave Grossman",
+      "Tim Schafer"
+    ],
     "Composer(s)": [
       "Michael Land",
       "Peter McConnell",
@@ -1545,8 +1732,16 @@
       "Akira Nishitani",
       "Akira Yasuda"
     ],
-    "Programmer(s)": "Shinichi Ueyama Seiji Okada Yoshihiro Matsui Motohide Eshiro",
-    "Artist(s)": "Eri Nakamura Satoru Yamashita",
+    "Programmer(s)": [
+      "Shinichi Ueyama",
+      "Seiji Okada",
+      "Yoshihiro Matsui",
+      "Motohide Eshiro"
+    ],
+    "Artist(s)": [
+      "Eri Nakamura",
+      "Satoru Yamashita"
+    ],
     "Composer(s)": "Yoko Shimomura Isao Abe",
     "Series": "Street Fighter",
     "Platform(s)": [
@@ -1556,18 +1751,34 @@
       "February 6, 1991"
     ],
     "Genre(s)": "Fighting",
-    "Mode(s)": "Up to 2 players simultaneously",
+    "Mode(s)": [
+      "Up to 2 players simultaneously"
+    ],
     "Arcade system": "CP System (CPS-1)"
   },
   {
     "Title": "Dune II",
     "Developer(s)": "Westwood Studios",
     "Publisher(s)": "Virgin Games",
-    "Director(s)": "Aaron E. Powell Lyle J. Hall",
+    "Director(s)": [
+      "Aaron E. Powell",
+      "Lyle J. Hall"
+    ],
     "Producer(s)": "Brett Sperry",
-    "Designer(s)": "Joe Bostic Marc Cram  Aaron E. Powell",
-    "Programmer(s)": "Joseph Bostic Scott K. Bowen",
-    "Writer(s)": "Rick Gush Donna J. Bundy Marc Cram",
+    "Designer(s)": [
+      "Joe Bostic",
+      "Marc Cram",
+      "Aaron E. Powell"
+    ],
+    "Programmer(s)": [
+      "Joseph Bostic",
+      "Scott K. Bowen"
+    ],
+    "Writer(s)": [
+      "Rick Gush",
+      "Donna J. Bundy",
+      "Marc Cram"
+    ],
     "Composer(s)": "Frank Klepacki Dwight Okahara",
     "Series": "Dune",
     "Platform(s)": [
@@ -1621,7 +1832,14 @@
       "Nintendo Switch",
       "PlayStation 4"
     ],
-    "Release": "1992 1993 (MS-DOS, SNES, Acorn Archimedes, Sega Genesis) March 1995 (CD-i)",
+    "Release": [
+      "1992",
+      "1993 (MS-DOS",
+      "SNES",
+      "Acorn Archimedes",
+      "Sega Genesis)",
+      "March 1995 (CD-i)"
+    ],
     "Genre(s)": "Cinematic platformer",
     "Mode(s)": "Single-player"
   },
@@ -1635,8 +1853,13 @@
       "Ed Boon",
       "John Tobias"
     ],
-    "Programmer(s)": "Ed Boon",
-    "Artist(s)": "John Tobias John Vogel",
+    "Programmer(s)": [
+      "Ed Boon"
+    ],
+    "Artist(s)": [
+      "John Tobias",
+      "John Vogel"
+    ],
     "Composer(s)": "Dan Forden",
     "Series": "Mortal Kombat",
     "Platform(s)": [
@@ -1666,7 +1889,9 @@
     "Title": "Sonic the Hedgehog 2",
     "Developer(s)": "Sega Technical Institute",
     "Publisher(s)": "Sega",
-    "Director(s)": "Masaharu Yoshii",
+    "Director(s)": [
+      "Masaharu Yoshii"
+    ],
     "Producer(s)": "Shinobu Toyoda",
     "Designer(s)": "Hirokazu Yasuhara Takahiro Anto Yutaka Sugano",
     "Programmer(s)": "Yuji Naka Bill Willis Masanobu Yamamoto",
@@ -1699,13 +1924,17 @@
       "Hideki Konno"
     ],
     "Producer(s)": "Shigeru Miyamoto",
-    "Programmer(s)": "Masato Kimura",
+    "Programmer(s)": [
+      "Masato Kimura"
+    ],
     "Artist(s)": [
       "Yōichi Kotabe",
       "Mie Yoshimura",
       "Yoshiaki Koizumi"
     ],
-    "Composer(s)": "Soyo Oka",
+    "Composer(s)": [
+      "Soyo Oka"
+    ],
     "Series": "Mario Kart",
     "Platform(s)": "Super Nintendo Entertainment System",
     "Release": [
@@ -1801,7 +2030,9 @@
   {
     "Title": "Day of the Tentacle",
     "Developer(s)": "LucasArts",
-    "Publisher(s)": "LucasArts",
+    "Publisher(s)": [
+      "LucasArts"
+    ],
     "Director(s)": [
       "Dave Grossman",
       "Tim Schafer"
@@ -1848,10 +2079,19 @@
     "Publisher(s)": "Sega",
     "Director(s)": "Toshihiro Nagoshi",
     "Producer(s)": "Toshihiro Nagoshi Yu Suzuki",
-    "Designer(s)": "Makoto Osaki Yukinobu Arikawa",
-    "Programmer(s)": "Daichi Katagiri Koki Koiwa Hideomi Miyauchi",
+    "Designer(s)": [
+      "Makoto Osaki",
+      "Yukinobu Arikawa"
+    ],
+    "Programmer(s)": [
+      "Daichi Katagiri",
+      "Koki Koiwa",
+      "Hideomi Miyauchi"
+    ],
     "Composer(s)": "Takenobu Mitsuyoshi",
-    "Series": "Daytona USA",
+    "Series": [
+      "Daytona USA"
+    ],
     "Platform(s)": [
       "Arcade",
       "Sega Saturn",
@@ -1872,7 +2112,9 @@
   {
     "Title": "Doom",
     "Developer(s)": "id Software",
-    "Publisher(s)": "id Software",
+    "Publisher(s)": [
+      "id Software"
+    ],
     "Designer(s)": [
       "John Romero",
       "Tom Hall",
@@ -1908,7 +2150,9 @@
     "Publisher(s)": "Nintendo",
     "Director(s)": "Takashi Tezuka",
     "Producer(s)": "Shigeru Miyamoto",
-    "Designer(s)": "Yasuhisa Yamamura",
+    "Designer(s)": [
+      "Yasuhisa Yamamura"
+    ],
     "Programmer(s)": [
       "Takamitsu Kuzuhara",
       "Kazuaki Morita"
@@ -1948,13 +2192,22 @@
       "Acclaim Entertainment",
       "home versions"
     ],
-    "Producer(s)": "Ken Fedesna Neil Nicastro",
+    "Producer(s)": [
+      "Ken Fedesna",
+      "Neil Nicastro"
+    ],
     "Designer(s)": [
       "Ed Boon",
       "John Tobias"
     ],
-    "Programmer(s)": "Ed Boon",
-    "Artist(s)": "John Tobias Tony Goskie John Vogel",
+    "Programmer(s)": [
+      "Ed Boon"
+    ],
+    "Artist(s)": [
+      "John Tobias",
+      "Tony Goskie",
+      "John Vogel"
+    ],
     "Composer(s)": "Dan Forden Matt Furniss (Sega Genesis, Game Gear, Master System)",
     "Series": "Mortal Kombat",
     "Platform(s)": [
@@ -2007,13 +2260,17 @@
     "Publisher(s)": [
       "Broderbund"
     ],
-    "Producer(s)": "Laurie Strand",
+    "Producer(s)": [
+      "Laurie Strand"
+    ],
     "Designer(s)": [
       "Rand Miller",
       "Robyn Miller"
     ],
     "Artist(s)": "Robyn Miller Chuck Carter",
-    "Composer(s)": "Robyn Miller",
+    "Composer(s)": [
+      "Robyn Miller"
+    ],
     "Series": "Myst",
     "Platform(s)": [
       "Mac OS",
@@ -2061,8 +2318,20 @@
       "Midway",
       "Acclaim Entertainment"
     ],
-    "Designer(s)": "Mark Turmell, Shawn Liptak, Jamie Rivett, Sal Divita, John Carlton, Tony Goskie",
-    "Composer(s)": "Jon Hey, (Arcade), Rick Fox, (Genesis/SNES)",
+    "Designer(s)": [
+      "Mark Turmell",
+      "Shawn Liptak",
+      "Jamie Rivett",
+      "Sal Divita",
+      "John Carlton",
+      "Tony Goskie"
+    ],
+    "Composer(s)": [
+      "Jon Hey",
+      "(Arcade)",
+      "Rick Fox",
+      "(Genesis/SNES)"
+    ],
     "Series": "NBA Jam",
     "Platform(s)": [
       "Arcade",
@@ -2092,16 +2361,24 @@
       "Sports",
       "basketball"
     ],
-    "Mode(s)": "Up to 4 players simultaneously",
+    "Mode(s)": [
+      "Up to 4 players simultaneously"
+    ],
     "Arcade system": "Midway T Unit"
   },
   {
     "Title": "Phantasy Star IV",
     "Developer(s)": "Sega",
-    "Publisher(s)": "Sega",
+    "Publisher(s)": [
+      "Sega"
+    ],
     "Director(s)": "Rieko Kodama Toru Yoshida Kiyoshi Takeuchi",
-    "Producer(s)": "Jerry Markota",
-    "Artist(s)": "Toru Yoshida",
+    "Producer(s)": [
+      "Jerry Markota"
+    ],
+    "Artist(s)": [
+      "Toru Yoshida"
+    ],
     "Writer(s)": "Akinori Nishiyama Toru Yoshida",
     "Composer(s)": [
       "Izuho Numata",
@@ -2160,7 +2437,9 @@
   {
     "Title": "Secret of Mana",
     "Developer(s)": "Square",
-    "Publisher(s)": "Square",
+    "Publisher(s)": [
+      "Square"
+    ],
     "Director(s)": "Koichi Ishii",
     "Producer(s)": "Hiromichi Tanaka",
     "Designer(s)": [
@@ -2169,7 +2448,9 @@
     ],
     "Programmer(s)": "Nasir Gebelli",
     "Artist(s)": "Shinichi Kameoka Hiroo Isono",
-    "Writer(s)": "Hiromichi Tanaka",
+    "Writer(s)": [
+      "Hiromichi Tanaka"
+    ],
     "Composer(s)": "Hiroki Kikuta",
     "Series": "Mana",
     "Platform(s)": [
@@ -2202,8 +2483,17 @@
       "Will Wright",
       "Fred Haslam"
     ],
-    "Artist(s)": "Jenny Martin Suzie Greene Kelli Pearson Eben Sorkin",
-    "Composer(s)": "Sue Kasper Brian Conrad Justin McCormick",
+    "Artist(s)": [
+      "Jenny Martin",
+      "Suzie Greene",
+      "Kelli Pearson",
+      "Eben Sorkin"
+    ],
+    "Composer(s)": [
+      "Sue Kasper",
+      "Brian Conrad",
+      "Justin McCormick"
+    ],
     "Series": "SimCity",
     "Platform(s)": [
       "Mac OS",
@@ -2237,7 +2527,9 @@
       "Giles Goddard"
     ],
     "Artist(s)": "Takaya Imamura",
-    "Composer(s)": "Hajime Hirasawa",
+    "Composer(s)": [
+      "Hajime Hirasawa"
+    ],
     "Series": "Star Fox",
     "Platform(s)": "SNES",
     "Release": [
@@ -2258,9 +2550,17 @@
       "Electronic Arts"
     ],
     "Producer(s)": "Peter Molyneux (Bullfrog) Kevin Buckner (EA)",
-    "Designer(s)": "Sean Cooper",
-    "Programmer(s)": "Sean Cooper   Phillip Jones",
-    "Artist(s)": "Chris Hill   Paul McLaughlin",
+    "Designer(s)": [
+      "Sean Cooper"
+    ],
+    "Programmer(s)": [
+      "Sean Cooper",
+      "Phillip Jones"
+    ],
+    "Artist(s)": [
+      "Chris Hill",
+      "Paul McLaughlin"
+    ],
     "Composer(s)": "Russell Shaw",
     "Series": "Syndicate",
     "Platform(s)": [
@@ -2277,7 +2577,10 @@
       "Sega-CD",
       "Acorn Archimedes"
     ],
-    "Release": "June 6, 1993",
+    "Release": [
+      "June 6",
+      "1993"
+    ],
     "Genre(s)": "Real-time tactics",
     "Mode(s)": "Single-player"
   },
@@ -2290,7 +2593,9 @@
       "Chris Stamper"
     ],
     "Designer(s)": "Gregg Mayles",
-    "Programmer(s)": "Chris Sutherland",
+    "Programmer(s)": [
+      "Chris Sutherland"
+    ],
     "Artist(s)": "Steve Mayles Kevin Bayliss Mark Stevenson Adrian Smith",
     "Writer(s)": "Gregg Mayles Daniel Owsen",
     "Composer(s)": [
@@ -2360,10 +2665,19 @@
       "Satoru Iwata",
       "Tsunekazu Ishihara"
     ],
-    "Designer(s)": "Akihiko Miura",
-    "Programmer(s)": "Satoru Iwata  Kouji Malta",
-    "Artist(s)": "Kouichi Ooyama",
-    "Writer(s)": "Shigesato Itoi",
+    "Designer(s)": [
+      "Akihiko Miura"
+    ],
+    "Programmer(s)": [
+      "Satoru Iwata",
+      "Kouji Malta"
+    ],
+    "Artist(s)": [
+      "Kouichi Ooyama"
+    ],
+    "Writer(s)": [
+      "Shigesato Itoi"
+    ],
     "Composer(s)": [
       "Keiichi Suzuki",
       "Hirokazu Tanaka"
@@ -2391,7 +2705,9 @@
       "Hiroyuki Ito"
     ],
     "Producer(s)": "Hironobu Sakaguchi",
-    "Designer(s)": "Hiroyuki Ito",
+    "Designer(s)": [
+      "Hiroyuki Ito"
+    ],
     "Artist(s)": [
       "Tetsuya Takahashi",
       "Kazuko Shibuya",
@@ -2418,10 +2734,16 @@
     "Title": "Sega Rally Championship",
     "Developer(s)": "Sega AM3",
     "Publisher(s)": "Sega",
-    "Director(s)": "Kenji Sasaki",
+    "Director(s)": [
+      "Kenji Sasaki"
+    ],
     "Producer(s)": "Tetsuya Mizuguchi",
-    "Programmer(s)": "Sohei Yamamoto",
-    "Artist(s)": "Kenji Sasaki",
+    "Programmer(s)": [
+      "Sohei Yamamoto"
+    ],
+    "Artist(s)": [
+      "Kenji Sasaki"
+    ],
     "Composer(s)": "Takenobu Mitsuyoshi",
     "Series": [
       "Sega Rally"
@@ -2456,7 +2778,9 @@
       "Jon Hare",
       "Sensible Software"
     ],
-    "Programmer(s)": "Chris Chapman",
+    "Programmer(s)": [
+      "Chris Chapman"
+    ],
     "Artist(s)": "Jon Hare Stoo Cambridge",
     "Composer(s)": [
       "Jon Hare",
@@ -2467,7 +2791,12 @@
       "MS-DOS",
       "Xbox 360"
     ],
-    "Release": "1994 1995 (Edition '95/'96) 1996 (ECE and '96/'97) 2007 (Xbox 360)",
+    "Release": [
+      "1994",
+      "1995 (Edition '95/'96)",
+      "1996 (ECE and '96/'97)",
+      "2007 (Xbox 360)"
+    ],
     "Genre(s)": [
       "Sports",
       "sports management"
@@ -2491,7 +2820,9 @@
       "Macintosh",
       "Microsoft Windows"
     ],
-    "Release": "July 1994",
+    "Release": [
+      "July 1994"
+    ],
     "Genre(s)": "Space simulation",
     "Mode(s)": "Single-player"
   },
@@ -2504,7 +2835,9 @@
     "Publisher(s)": "Nintendo",
     "Director(s)": "Yoshio Sakamoto",
     "Producer(s)": "Makoto Kano",
-    "Programmer(s)": "Kenji Imai",
+    "Programmer(s)": [
+      "Kenji Imai"
+    ],
     "Artist(s)": "Hirofumi Matsuoka Masahiko Mashimo Hiroyuki Kimura",
     "Composer(s)": "Kenji Yamamoto Minako Hamano",
     "Series": "Metroid",
@@ -2523,11 +2856,22 @@
       "Mythos Games",
       "MicroProse"
     ],
-    "Publisher(s)": "MicroProse",
-    "Producer(s)": "Tim Roberts",
+    "Publisher(s)": [
+      "MicroProse"
+    ],
+    "Producer(s)": [
+      "Tim Roberts"
+    ],
     "Designer(s)": "Julian Gollop Nick Gollop",
-    "Programmer(s)": "Julian Gollop   Nick Gollop",
-    "Artist(s)": "Julian Gollop   John Reitze   Martin Smillie",
+    "Programmer(s)": [
+      "Julian Gollop",
+      "Nick Gollop"
+    ],
+    "Artist(s)": [
+      "Julian Gollop",
+      "John Reitze",
+      "Martin Smillie"
+    ],
     "Composer(s)": "John Broomhall",
     "Series": "X-COM",
     "Platform(s)": [
@@ -2604,8 +2948,13 @@
       "Brett Sperry",
       "Edward Del Castillo"
     ],
-    "Designer(s)": "Erik Yeo",
-    "Programmer(s)": "Joseph Bostic William Randolph",
+    "Designer(s)": [
+      "Erik Yeo"
+    ],
+    "Programmer(s)": [
+      "Joseph Bostic",
+      "William Randolph"
+    ],
     "Writer(s)": "Eydie Laramore Ron Smith Joseph D. Kucan",
     "Composer(s)": "Frank Klepacki",
     "Series": "Command & Conquer",
@@ -2629,12 +2978,24 @@
   {
     "Title": "MechWarrior 2: 31st Century Combat",
     "Developer(s)": "Activision",
-    "Publisher(s)": "Activision",
-    "Director(s)": "John Spinale",
+    "Publisher(s)": [
+      "Activision"
+    ],
+    "Director(s)": [
+      "John Spinale"
+    ],
     "Producer(s)": "Josh Resnick",
-    "Designer(s)": "Sean Vesce, Zachary Norman",
-    "Writer(s)": "Zachary Norman",
-    "Composer(s)": "Gregory Alper Jeehun Hwang",
+    "Designer(s)": [
+      "Sean Vesce",
+      "Zachary Norman"
+    ],
+    "Writer(s)": [
+      "Zachary Norman"
+    ],
+    "Composer(s)": [
+      "Gregory Alper",
+      "Jeehun Hwang"
+    ],
     "Series": "MechWarrior",
     "Platform(s)": [
       "DOS",
@@ -2662,9 +3023,15 @@
       "Patrick Wyatt"
     ],
     "Designer(s)": "Ron Millar",
-    "Programmer(s)": "Bob Fitch Jesse McReynolds Michael Morhaime",
+    "Programmer(s)": [
+      "Bob Fitch",
+      "Jesse McReynolds",
+      "Michael Morhaime"
+    ],
     "Writer(s)": "Chris Metzen",
-    "Composer(s)": "Glenn Stafford",
+    "Composer(s)": [
+      "Glenn Stafford"
+    ],
     "Series": "Warcraft",
     "Platform(s)": [
       "MS-DOS",
@@ -2692,9 +3059,15 @@
     "Publisher(s)": [
       "NA/JP: SoftBank (Sega Saturn)"
     ],
-    "Director(s)": "John White",
-    "Producer(s)": "Dominic Mallinson",
-    "Designer(s)": "Nick Burcome",
+    "Director(s)": [
+      "John White"
+    ],
+    "Producer(s)": [
+      "Dominic Mallinson"
+    ],
+    "Designer(s)": [
+      "Nick Burcome"
+    ],
     "Composer(s)": "Tim Wright",
     "Series": "Wipeout",
     "Platform(s)": [
@@ -2760,7 +3133,9 @@
       "Jason S. Coleman",
       "Chris Taormino"
     ],
-    "Artist(s)": "Michael O. Haire",
+    "Artist(s)": [
+      "Michael O. Haire"
+    ],
     "Writer(s)": "Dave Ellis",
     "Composer(s)": [
       "Jeff Briggs",
@@ -2788,13 +3163,31 @@
     "Title": "Command & Conquer: Red Alert",
     "Developer(s)": "Westwood Studios",
     "Publisher(s)": "Virgin Interactive Entertainment",
-    "Producer(s)": "Edward Alexander Del Castillo",
-    "Designer(s)": "Adam P. Isgreen Michael Lightner Erik Yeo",
-    "Programmer(s)": "Joseph Bostic Barry Green Steve Tall",
-    "Artist(s)": "Christopher D. Demers Matthew Hansel Joseph B. Hewitt IV",
-    "Writer(s)": "Ron Smith",
+    "Producer(s)": [
+      "Edward Alexander Del Castillo"
+    ],
+    "Designer(s)": [
+      "Adam P. Isgreen",
+      "Michael Lightner",
+      "Erik Yeo"
+    ],
+    "Programmer(s)": [
+      "Joseph Bostic",
+      "Barry Green",
+      "Steve Tall"
+    ],
+    "Artist(s)": [
+      "Christopher D. Demers",
+      "Matthew Hansel",
+      "Joseph B. Hewitt IV"
+    ],
+    "Writer(s)": [
+      "Ron Smith"
+    ],
     "Composer(s)": "Frank Klepacki",
-    "Series": "Command & Conquer : Red Alert",
+    "Series": [
+      "Comm& Conquer: Red Alert"
+    ],
     "Platform(s)": [
       "MS-DOS",
       "Microsoft Windows",
@@ -2853,7 +3246,9 @@
     "Director(s)": "Naoto Ohshima",
     "Producer(s)": "Yuji Naka",
     "Designer(s)": "Takashi Iizuka",
-    "Programmer(s)": "Yuji Naka",
+    "Programmer(s)": [
+      "Yuji Naka"
+    ],
     "Artist(s)": "Kazuyuki Hoshino Naoto Ohshima",
     "Composer(s)": [
       "Naofumi Hataya",
@@ -2885,10 +3280,19 @@
     ],
     "Publisher(s)": "Sony Computer Entertainment",
     "Producer(s)": "Masaya Matsuura",
-    "Designer(s)": "Masaya Matsuura",
-    "Artist(s)": "Rodney Greenblat",
-    "Writer(s)": "Gabin Itou",
-    "Composer(s)": "Masaya Matsuura Yoshihisa Suzuki",
+    "Designer(s)": [
+      "Masaya Matsuura"
+    ],
+    "Artist(s)": [
+      "Rodney Greenblat"
+    ],
+    "Writer(s)": [
+      "Gabin Itou"
+    ],
+    "Composer(s)": [
+      "Masaya Matsuura",
+      "Yoshihisa Suzuki"
+    ],
     "Platform(s)": [
       "PlayStation",
       "PlayStation Portable",
@@ -2962,7 +3366,9 @@
       "Takahiro Arimitsu",
       "Isao Ōishi"
     ],
-    "Programmer(s)": "Yasuhiro Anpo",
+    "Programmer(s)": [
+      "Yasuhiro Anpo"
+    ],
     "Writer(s)": [
       "Kenichi Iwao",
       "Yasuyuki Saga"
@@ -2990,8 +3396,13 @@
     "Developer(s)": "Nintendo EAD",
     "Publisher(s)": "Nintendo",
     "Director(s)": "Shigeru Miyamoto",
-    "Producer(s)": "Shigeru Miyamoto",
-    "Programmer(s)": "Yasunari Nishida Yoshinori Tanimoto",
+    "Producer(s)": [
+      "Shigeru Miyamoto"
+    ],
+    "Programmer(s)": [
+      "Yasunari Nishida",
+      "Yoshinori Tanimoto"
+    ],
     "Artist(s)": "Yoshiaki Koizumi Satoru Takizawa Masanao Arimoto",
     "Composer(s)": "Koji Kondo",
     "Series": "Super Mario",
@@ -3012,9 +3423,13 @@
     "Title": "Tomb Raider",
     "Developer(s)": "Core Design",
     "Publisher(s)": "Eidos Interactive",
-    "Programmer(s)": "Paul Douglas",
+    "Programmer(s)": [
+      "Paul Douglas"
+    ],
     "Artist(s)": "Toby Gard",
-    "Writer(s)": "Vicky Arnold",
+    "Writer(s)": [
+      "Vicky Arnold"
+    ],
     "Composer(s)": "Nathan McCree",
     "Series": "Tomb Raider",
     "Platform(s)": [
@@ -3042,7 +3457,9 @@
       "Shinya Takahashi"
     ],
     "Producer(s)": "Shigeru Miyamoto",
-    "Programmer(s)": "Keizo Ohta",
+    "Programmer(s)": [
+      "Keizo Ohta"
+    ],
     "Composer(s)": "Kazumi Totaka",
     "Series": "Wave Race",
     "Platform(s)": [
@@ -3065,8 +3482,12 @@
     "Title": "Castlevania: Symphony of the Night",
     "Developer(s)": "Konami Computer Entertainment Tokyo",
     "Publisher(s)": "Konami",
-    "Director(s)": "Toru Hagihara",
-    "Producer(s)": "Toru Hagihara",
+    "Director(s)": [
+      "Toru Hagihara"
+    ],
+    "Producer(s)": [
+      "Toru Hagihara"
+    ],
     "Programmer(s)": [
       "Toru Hagihara",
       "Koji Igarashi"
@@ -3112,7 +3533,9 @@
       "Eric Sexton",
       "Kenneth Williams"
     ],
-    "Programmer(s)": "David Brevik",
+    "Programmer(s)": [
+      "David Brevik"
+    ],
     "Artist(s)": "Michio Okamura",
     "Writer(s)": "Chris Metzen Bill Roper Eric Sexton Erich Schaefer",
     "Composer(s)": "Matt Uelmen",
@@ -3139,7 +3562,9 @@
   {
     "Title": "Fallout: A Post Nuclear Role Playing Game",
     "Developer(s)": "Interplay Productions",
-    "Publisher(s)": "Interplay Productions",
+    "Publisher(s)": [
+      "Interplay Productions"
+    ],
     "Director(s)": "Feargus Urquhart",
     "Producer(s)": "Tim Cain",
     "Designer(s)": "Christopher Taylor",
@@ -3149,7 +3574,9 @@
       "Jason D. Anderson",
       "Gary Platner"
     ],
-    "Writer(s)": "Mark O'Green",
+    "Writer(s)": [
+      "Mark O'Green"
+    ],
     "Composer(s)": "Mark Morgan",
     "Series": "Fallout",
     "Platform(s)": [
@@ -3201,7 +3628,9 @@
     ],
     "Director(s)": "Yoshinori Kitase",
     "Producer(s)": "Hironobu Sakaguchi",
-    "Programmer(s)": "Ken Narita",
+    "Programmer(s)": [
+      "Ken Narita"
+    ],
     "Artist(s)": [
       "Yusuke Naora",
       "Tetsuya Nomura"
@@ -3229,10 +3658,19 @@
     "Developer(s)": "Rare",
     "Publisher(s)": "Nintendo",
     "Director(s)": "Martin Hollis",
-    "Producer(s)": "Martin Hollis",
+    "Producer(s)": [
+      "Martin Hollis"
+    ],
     "Designer(s)": "Duncan Botwood",
-    "Programmer(s)": "Mark Edmonds Steve Ellis",
-    "Artist(s)": "Karl Hilton Adrian Smith B. Jones",
+    "Programmer(s)": [
+      "Mark Edmonds",
+      "Steve Ellis"
+    ],
+    "Artist(s)": [
+      "Karl Hilton",
+      "Adrian Smith",
+      "B. Jones"
+    ],
     "Writer(s)": "David Doak",
     "Composer(s)": [
       "Graeme Norgate",
@@ -3241,7 +3679,9 @@
     ],
     "Series": "James Bond",
     "Platform(s)": "Nintendo 64",
-    "Release": "25 August 1997",
+    "Release": [
+      "25 August 1997"
+    ],
     "Genre(s)": [
       "First-person shooter",
       "stealth"
@@ -3259,9 +3699,17 @@
     ],
     "Publisher(s)": "Sony Computer Entertainment",
     "Producer(s)": "Kazunori Yamauchi",
-    "Designer(s)": "Kazunori Yamauchi Takeshi Yokouchi Hirotaka Komiyama",
-    "Programmer(s)": "Seiichi Ikiou",
-    "Artist(s)": "Masaaki Goto",
+    "Designer(s)": [
+      "Kazunori Yamauchi",
+      "Takeshi Yokouchi",
+      "Hirotaka Komiyama"
+    ],
+    "Programmer(s)": [
+      "Seiichi Ikiou"
+    ],
+    "Artist(s)": [
+      "Masaaki Goto"
+    ],
     "Composer(s)": "Masahiro Andoh (JP) Isamu Ohira (JP) Jason Page (EU/US)",
     "Series": "Gran Turismo",
     "Platform(s)": "PlayStation",
@@ -3325,12 +3773,16 @@
     "Title": "Star Fox 64",
     "Developer(s)": "Nintendo EAD",
     "Publisher(s)": "Nintendo",
-    "Director(s)": "Takao Shimizu",
+    "Director(s)": [
+      "Takao Shimizu"
+    ],
     "Producer(s)": "Shigeru Miyamoto",
     "Designer(s)": "Shigeru Miyamoto",
     "Programmer(s)": "Kazuaki Morita",
     "Artist(s)": "Takaya Imamura",
-    "Writer(s)": "Mitsuhiro Takano",
+    "Writer(s)": [
+      "Mitsuhiro Takano"
+    ],
     "Composer(s)": "Koji Kondo Hajime Wakai",
     "Series": "Star Fox",
     "Platform(s)": [
@@ -3355,13 +3807,23 @@
   {
     "Title": "Star Wars Jedi Knight: Dark Forces II",
     "Developer(s)": "LucasArts",
-    "Publisher(s)": "LucasArts",
-    "Director(s)": "Justin Chin",
-    "Designer(s)": "Peter Chan",
-    "Writer(s)": "Peter Chan",
+    "Publisher(s)": [
+      "LucasArts"
+    ],
+    "Director(s)": [
+      "Justin Chin"
+    ],
+    "Designer(s)": [
+      "Peter Chan"
+    ],
+    "Writer(s)": [
+      "Peter Chan"
+    ],
     "Composer(s)": "Peter McConnell",
     "Series": "Star Wars: Jedi Knight",
-    "Engine": "Sith",
+    "Engine": [
+      "Sith"
+    ],
     "Platform(s)": "Microsoft Windows",
     "Release": "NA : October 10, 1997",
     "Genre(s)": [
@@ -3382,9 +3844,13 @@
       "EU: SCEE"
     ],
     "Director(s)": "Masamichi Abe Yutaka Kounoe Katsuhiro Harada",
-    "Producer(s)": "Hajime Nakatani",
+    "Producer(s)": [
+      "Hajime Nakatani"
+    ],
     "Designer(s)": "Masahiro Kimoto Katsuhiro Harada",
-    "Programmer(s)": "Masanori Yashinari Mizushima",
+    "Programmer(s)": [
+      "Masanori Yashinari Mizushima"
+    ],
     "Composer(s)": [
       "Nobuyoshi Sano",
       "Keiichi Okabe",
@@ -3416,7 +3882,10 @@
     "Director(s)": "Starr Long",
     "Producer(s)": "Richard Garriott",
     "Designer(s)": "Raph Koster",
-    "Programmer(s)": "Rick Delashmit Scott Phillips",
+    "Programmer(s)": [
+      "Rick Delashmit",
+      "Scott Phillips"
+    ],
     "Composer(s)": [
       "Kirk Winterrowd",
       "Joe Basquez"
@@ -3428,7 +3897,10 @@
       "Microsoft Windows",
       "Linux"
     ],
-    "Release": "September 24, 1997",
+    "Release": [
+      "September 24",
+      "1997"
+    ],
     "Genre(s)": "MMORPG",
     "Mode(s)": "Multiplayer"
   },
@@ -3438,7 +3910,9 @@
       "Konami",
       "Bemani"
     ],
-    "Publisher(s)": "Konami",
+    "Publisher(s)": [
+      "Konami"
+    ],
     "Series": "Dance Dance Revolution",
     "Platform(s)": [
       "Arcade",
@@ -3466,28 +3940,48 @@
     "Developer(s)": "Black Isle Studios",
     "Publisher(s)": "Interplay Productions",
     "Producer(s)": "Eric DeMilt Feargus Urquhart",
-    "Designer(s)": "Feargus Urquhart   Matt Norton",
-    "Programmer(s)": "Jesse Reynolds",
-    "Artist(s)": "Gary Platner",
-    "Writer(s)": "Mark O'Green",
+    "Designer(s)": [
+      "Feargus Urquhart",
+      "Matt Norton"
+    ],
+    "Programmer(s)": [
+      "Jesse Reynolds"
+    ],
+    "Artist(s)": [
+      "Gary Platner"
+    ],
+    "Writer(s)": [
+      "Mark O'Green"
+    ],
     "Composer(s)": "Mark Morgan",
     "Series": "Fallout",
     "Platform(s)": [
       "Microsoft Windows",
       "Mac OS X"
     ],
-    "Release": "October 29, 1998",
+    "Release": [
+      "October 29",
+      "1998"
+    ],
     "Genre(s)": "Role-playing",
     "Mode(s)": "Single player"
   },
   {
     "Title": "Grim Fandango",
     "Developer(s)": "LucasArts",
-    "Publisher(s)": "LucasArts",
+    "Publisher(s)": [
+      "LucasArts"
+    ],
     "Director(s)": "Tim Schafer",
-    "Programmer(s)": "Bret Mogilefsky",
-    "Artist(s)": "Peter Tsacle",
-    "Writer(s)": "Tim Schafer",
+    "Programmer(s)": [
+      "Bret Mogilefsky"
+    ],
+    "Artist(s)": [
+      "Peter Tsacle"
+    ],
+    "Writer(s)": [
+      "Tim Schafer"
+    ],
     "Composer(s)": "Peter McConnell",
     "Engine": "GrimE",
     "Platform(s)": [
@@ -3540,7 +4034,9 @@
       "Toshio Iwawaki"
     ],
     "Producer(s)": "Shigeru Miyamoto",
-    "Programmer(s)": "Kenzo Hayakawa",
+    "Programmer(s)": [
+      "Kenzo Hayakawa"
+    ],
     "Artist(s)": [
       "Yoshiaki Koizumi",
       "Yusuke Nakano"
@@ -3568,7 +4064,9 @@
       "Hideo Kojima",
       "Motoyuki Yoshioka"
     ],
-    "Programmer(s)": "Kazunobu Uehara",
+    "Programmer(s)": [
+      "Kazunobu Uehara"
+    ],
     "Artist(s)": "Yoji Shinkawa",
     "Writer(s)": [
       "Hideo Kojima",
@@ -3597,10 +4095,14 @@
   },
   {
     "Title": "Panzer Dragoon Saga",
-    "Developer(s)": "Team Andromeda",
+    "Developer(s)": [
+      "Team Andromeda"
+    ],
     "Publisher(s)": "Sega",
     "Director(s)": "Yukio Futatsugi",
-    "Designer(s)": "Manabu Kusunoki",
+    "Designer(s)": [
+      "Manabu Kusunoki"
+    ],
     "Artist(s)": "Katsumi Yokota",
     "Composer(s)": [
       "Saori Kobayashi",
@@ -3627,7 +4129,9 @@
     ],
     "Director(s)": "Hideki Kamiya",
     "Producer(s)": "Shinji Mikami",
-    "Programmer(s)": "Yasuhiro Anpo",
+    "Programmer(s)": [
+      "Yasuhiro Anpo"
+    ],
     "Artist(s)": [
       "Isao Ohishi",
       "Ryoji Shimogama"
@@ -3656,7 +4160,9 @@
   {
     "Title": "StarCraft",
     "Developer(s)": "Blizzard Entertainment",
-    "Publisher(s)": "Blizzard Entertainment",
+    "Publisher(s)": [
+      "Blizzard Entertainment"
+    ],
     "Designer(s)": "Chris Metzen James Phinney",
     "Composer(s)": [
       "Derek Duke",
@@ -3685,11 +4191,19 @@
     "Title": "Thief: The Dark Project",
     "Developer(s)": "Looking Glass Studios",
     "Publisher(s)": "Eidos Interactive",
-    "Director(s)": "Greg LoPiccolo",
+    "Director(s)": [
+      "Greg LoPiccolo"
+    ],
     "Producer(s)": "Josh Randall",
-    "Designer(s)": "Tim Stellmach",
-    "Programmer(s)": "Tom Leonard",
-    "Artist(s)": "Mark Lizotte",
+    "Designer(s)": [
+      "Tim Stellmach"
+    ],
+    "Programmer(s)": [
+      "Tom Leonard"
+    ],
+    "Artist(s)": [
+      "Mark Lizotte"
+    ],
     "Writer(s)": [
       "Terri Brosius",
       "Laura Baldwin",
@@ -3714,7 +4228,9 @@
       "Konami (PS2)"
     ],
     "Designer(s)": "Bruce Shelley",
-    "Programmer(s)": "Angelo Laudon",
+    "Programmer(s)": [
+      "Angelo Laudon"
+    ],
     "Artist(s)": [
       "Brad Crow",
       "Scott Winsett"
@@ -3747,10 +4263,20 @@
       "EU: Ubi Soft"
     ],
     "Producer(s)": "Brad McQuaid",
-    "Designer(s)": "Steve Clover Brad McQuaid William Trost",
-    "Programmer(s)": "Steve Clover",
-    "Artist(s)": "Rosie Rappaport",
-    "Composer(s)": "Jay Barbeau",
+    "Designer(s)": [
+      "Steve Clover",
+      "Brad McQuaid",
+      "William Trost"
+    ],
+    "Programmer(s)": [
+      "Steve Clover"
+    ],
+    "Artist(s)": [
+      "Rosie Rappaport"
+    ],
+    "Composer(s)": [
+      "Jay Barbeau"
+    ],
     "Engine": "True3D 7th Level",
     "Platform(s)": [
       "Microsoft Windows",
@@ -3769,10 +4295,18 @@
     "Developer(s)": "Relic Entertainment",
     "Publisher(s)": "Sierra Studios",
     "Director(s)": "Alex Garden",
-    "Producer(s)": "Curtis Terry",
-    "Designer(s)": "Erin Daly",
-    "Programmer(s)": "Luke Moloney",
-    "Artist(s)": "Aaron Kambeitz",
+    "Producer(s)": [
+      "Curtis Terry"
+    ],
+    "Designer(s)": [
+      "Erin Daly"
+    ],
+    "Programmer(s)": [
+      "Luke Moloney"
+    ],
+    "Artist(s)": [
+      "Aaron Kambeitz"
+    ],
     "Writer(s)": "Martin Cirulis, Arinn Dembo",
     "Composer(s)": "Paul Ruskay",
     "Platform(s)": [
@@ -3792,9 +4326,15 @@
     "Publisher(s)": "Interplay Entertainment",
     "Producer(s)": "Guido Henkel Kenneth Lee",
     "Designer(s)": "Chris Avellone",
-    "Programmer(s)": "Dan Spitzley",
-    "Artist(s)": "Tim Donley",
-    "Writer(s)": "Chris Avellone",
+    "Programmer(s)": [
+      "Dan Spitzley"
+    ],
+    "Artist(s)": [
+      "Tim Donley"
+    ],
+    "Writer(s)": [
+      "Chris Avellone"
+    ],
     "Composer(s)": "Mark Morgan",
     "Engine": "Infinity Engine",
     "Platform(s)": [
@@ -3875,9 +4415,15 @@
       "Yu Suzuki",
       "Toshihiro Nagoshi"
     ],
-    "Designer(s)": "Eigo Kasahara",
-    "Programmer(s)": "Keiji Okayasu",
-    "Artist(s)": "Masanori Ohe",
+    "Designer(s)": [
+      "Eigo Kasahara"
+    ],
+    "Programmer(s)": [
+      "Keiji Okayasu"
+    ],
+    "Artist(s)": [
+      "Masanori Ohe"
+    ],
     "Writer(s)": [
       "Yu Suzuki",
       "Masahiro Yoshimoto",
@@ -3912,9 +4458,15 @@
     ],
     "Publisher(s)": "Konami",
     "Director(s)": "Keiichiro Toyama",
-    "Producer(s)": "Gozo Kitao",
-    "Programmer(s)": "Akihiro Imamura",
-    "Writer(s)": "Keiichiro Toyama",
+    "Producer(s)": [
+      "Gozo Kitao"
+    ],
+    "Programmer(s)": [
+      "Akihiro Imamura"
+    ],
+    "Writer(s)": [
+      "Keiichiro Toyama"
+    ],
     "Composer(s)": "Akira Yamaoka",
     "Series": "Silent Hill",
     "Platform(s)": [
@@ -3937,12 +4489,20 @@
       "Looking Glass Studios"
     ],
     "Publisher(s)": "Electronic Arts",
-    "Director(s)": "Jonathan Chey",
+    "Director(s)": [
+      "Jonathan Chey"
+    ],
     "Producer(s)": "Josh Randall",
     "Designer(s)": "Ken Levine",
-    "Programmer(s)": "Rob Fermier",
-    "Artist(s)": "Gareth Hinds",
-    "Writer(s)": "Ken Levine",
+    "Programmer(s)": [
+      "Rob Fermier"
+    ],
+    "Artist(s)": [
+      "Gareth Hinds"
+    ],
+    "Writer(s)": [
+      "Ken Levine"
+    ],
     "Composer(s)": [
       "Josh Randall",
       "Ramin Djawadi",
@@ -3984,7 +4544,9 @@
       "Jack Porter",
       "Brandon Reinhart"
     ],
-    "Artist(s)": "Shane Caudle",
+    "Artist(s)": [
+      "Shane Caudle"
+    ],
     "Composer(s)": [
       "Straylight Productions",
       "Michiel van den Bos"
@@ -4021,10 +4583,16 @@
       "Interplay Entertainment"
     ],
     "Director(s)": "James Ohlen",
-    "Producer(s)": "Ben Smedstad",
+    "Producer(s)": [
+      "Ben Smedstad"
+    ],
     "Designer(s)": "Kevin Martens",
-    "Programmer(s)": "Mark Darrah",
-    "Artist(s)": "Marcia Tofer",
+    "Programmer(s)": [
+      "Mark Darrah"
+    ],
+    "Artist(s)": [
+      "Marcia Tofer"
+    ],
     "Composer(s)": [
       "Michael Hoenig",
       "Howard Drossin"
@@ -4074,10 +4642,16 @@
     "Developer(s)": "Ion Storm",
     "Publisher(s)": "Eidos Interactive",
     "Director(s)": "Warren Spector",
-    "Producer(s)": "Warren Spector",
+    "Producer(s)": [
+      "Warren Spector"
+    ],
     "Designer(s)": "Harvey Smith",
-    "Programmer(s)": "Chris Norden",
-    "Artist(s)": "Jay Lee",
+    "Programmer(s)": [
+      "Chris Norden"
+    ],
+    "Artist(s)": [
+      "Jay Lee"
+    ],
     "Writer(s)": "Sheldon Pacotti Chris Todd Austin Grossman",
     "Composer(s)": [
       "Alexander Brandon",
@@ -4110,9 +4684,17 @@
     "Publisher(s)": "Blizzard Entertainment",
     "Director(s)": "David Brevik Erich Schaefer Max Schaefer",
     "Producer(s)": "Mark Kern Kenneth Williams",
-    "Designer(s)": "David Brevik Erich Schaefer Max Schaefer",
-    "Programmer(s)": "Rick Seis",
-    "Artist(s)": "Phil Shenk",
+    "Designer(s)": [
+      "David Brevik",
+      "Erich Schaefer",
+      "Max Schaefer"
+    ],
+    "Programmer(s)": [
+      "Rick Seis"
+    ],
+    "Artist(s)": [
+      "Phil Shenk"
+    ],
     "Writer(s)": "Kurt Beaver Stieg Hedlund Matthew Householder Phil Shenk Robert Vieira",
     "Composer(s)": "Matt Uelmen",
     "Series": "Diablo",
@@ -4143,10 +4725,18 @@
       "BlitWorks"
     ],
     "Publisher(s)": "Sega",
-    "Director(s)": "Masayoshi Kikuchi",
-    "Producer(s)": "Kawagoe Takayuki",
-    "Designer(s)": "Hosokawa Kazuki",
-    "Artist(s)": "Ryuta Ueda",
+    "Director(s)": [
+      "Masayoshi Kikuchi"
+    ],
+    "Producer(s)": [
+      "Kawagoe Takayuki"
+    ],
+    "Designer(s)": [
+      "Hosokawa Kazuki"
+    ],
+    "Artist(s)": [
+      "Ryuta Ueda"
+    ],
     "Composer(s)": [
       "Hideki Naganuma",
       "Richard Jacques",
@@ -4224,11 +4814,20 @@
       "Aspyr Media",
       "EA Games"
     ],
-    "Producer(s)": "Kana Ryan",
+    "Producer(s)": [
+      "Kana Ryan"
+    ],
     "Designer(s)": "Will Wright",
-    "Programmer(s)": "Jeffrey Charvat Jim Mackraz",
-    "Artist(s)": "Charles London",
-    "Writer(s)": "Sean Baity",
+    "Programmer(s)": [
+      "Jeffrey Charvat",
+      "Jim Mackraz"
+    ],
+    "Artist(s)": [
+      "Charles London"
+    ],
+    "Writer(s)": [
+      "Sean Baity"
+    ],
     "Composer(s)": [
       "Jerry Martin",
       "Marc Russo"
@@ -4261,10 +4860,18 @@
     "Title": "Thief II: The Metal Age",
     "Developer(s)": "Looking Glass Studios",
     "Publisher(s)": "Eidos Interactive",
-    "Director(s)": "Steve Pearsall",
+    "Director(s)": [
+      "Steve Pearsall"
+    ],
     "Designer(s)": "Tim Stellmach Randy Smith",
-    "Programmer(s)": "Alex Duran William Farquhar Pat McElhatton",
-    "Artist(s)": "Mark Lizotte",
+    "Programmer(s)": [
+      "Alex Duran",
+      "William Farquhar",
+      "Pat McElhatton"
+    ],
+    "Artist(s)": [
+      "Mark Lizotte"
+    ],
     "Composer(s)": "Eric Brosius",
     "Series": "Thief",
     "Engine": "Dark Engine",
@@ -4280,12 +4887,22 @@
     "Title": "Tony Hawk's Pro Skater 2",
     "Developer(s)": "Neversoft",
     "Publisher(s)": "Activision",
-    "Director(s)": "Jason Uyeda",
-    "Producer(s)": "Scott Pease",
-    "Designer(s)": "Aaron Cammarata",
+    "Director(s)": [
+      "Jason Uyeda"
+    ],
+    "Producer(s)": [
+      "Scott Pease"
+    ],
+    "Designer(s)": [
+      "Aaron Cammarata"
+    ],
     "Programmer(s)": "Mick West",
-    "Artist(s)": "Silvio Porretta",
-    "Composer(s)": "Brian Bright",
+    "Artist(s)": [
+      "Silvio Porretta"
+    ],
+    "Composer(s)": [
+      "Brian Bright"
+    ],
     "Series": "Tony Hawk's",
     "Platform(s)": [
       "PlayStation",
@@ -4310,9 +4927,15 @@
     "Title": "Advance Wars",
     "Developer(s)": "Intelligent Systems",
     "Publisher(s)": "Nintendo",
-    "Director(s)": "Toru Narihiro",
-    "Producer(s)": "Takehiro Izushi",
-    "Composer(s)": "Taishi Senda",
+    "Director(s)": [
+      "Toru Narihiro"
+    ],
+    "Producer(s)": [
+      "Takehiro Izushi"
+    ],
+    "Composer(s)": [
+      "Taishi Senda"
+    ],
     "Series": "Wars",
     "Platform(s)": "Game Boy Advance",
     "Release": [
@@ -4336,7 +4959,10 @@
       "Hisashi Nogami"
     ],
     "Producer(s)": "Takashi Tezuka",
-    "Programmer(s)": "Yuhiki Otsuki Masaru Ni",
+    "Programmer(s)": [
+      "Yuhiki Otsuki",
+      "Masaru Ni"
+    ],
     "Artist(s)": [
       "Noriko Ikegawa",
       "Yoshihisa Morimoto"
@@ -4406,7 +5032,9 @@
       "PAL: Sony Computer Entertainment"
     ],
     "Director(s)": "Yoshinori Kitase",
-    "Producer(s)": "Yoshinori Kitase",
+    "Producer(s)": [
+      "Yoshinori Kitase"
+    ],
     "Designer(s)": [
       "Motomu Toriyama",
       "Takayoshi Nakazato",
@@ -4449,7 +5077,9 @@
     "Developer(s)": "Polyphony Digital",
     "Publisher(s)": "Sony Computer Entertainment",
     "Producer(s)": "Kazunori Yamauchi",
-    "Designer(s)": "Kazunori Yamauchi",
+    "Designer(s)": [
+      "Kazunori Yamauchi"
+    ],
     "Composer(s)": "Isamu Ohira Daiki Kasho",
     "Series": "Gran Turismo",
     "Platform(s)": "PlayStation 2",
@@ -4473,7 +5103,9 @@
       "Obbe Vermeij",
       "Adam Fowler"
     ],
-    "Artist(s)": "Aaron Garbut",
+    "Artist(s)": [
+      "Aaron Garbut"
+    ],
     "Writer(s)": "James Worrall Paul Kurowski Dan Houser",
     "Composer(s)": [
       "Craig Conner",
@@ -4511,8 +5143,13 @@
       "Hamilton Chu",
       "Rick Ryan"
     ],
-    "Designer(s)": "John Howard",
-    "Artist(s)": "Marcus Lehto  Shi Kai Wang",
+    "Designer(s)": [
+      "John Howard"
+    ],
+    "Artist(s)": [
+      "Marcus Lehto",
+      "Shi Kai Wang"
+    ],
     "Composer(s)": [
       "Martin O'Donnell",
       "Michael Salvatori"
@@ -4544,7 +5181,9 @@
     "Publisher(s)": "Sony Computer Entertainment",
     "Director(s)": "Fumito Ueda",
     "Producer(s)": "Kenji Kaido",
-    "Designer(s)": "Fumito Ueda",
+    "Designer(s)": [
+      "Fumito Ueda"
+    ],
     "Composer(s)": "Michiru Oshima Koichi Yamazaki Mitsukuni Murayama",
     "Platform(s)": "PlayStation 2",
     "Release": [
@@ -4566,8 +5205,12 @@
     ],
     "Director(s)": "Hiroshi Iuchi",
     "Producer(s)": "Masato Maegawa",
-    "Designer(s)": "Yasushi Suzuki",
-    "Programmer(s)": "Atsutomo Nakagawa",
+    "Designer(s)": [
+      "Yasushi Suzuki"
+    ],
+    "Programmer(s)": [
+      "Atsutomo Nakagawa"
+    ],
     "Composer(s)": "Hiroshi Iuchi",
     "Platform(s)": [
       "Arcade",
@@ -4592,12 +5235,16 @@
     "Title": "Max Payne",
     "Developer(s)": "Remedy Entertainment",
     "Publisher(s)": "Gathering of Developers",
-    "Director(s)": "Petri Järvilehto",
+    "Director(s)": [
+      "Petri Järvilehto"
+    ],
     "Producer(s)": [
       "George Broussard",
       "Scott Miller"
     ],
-    "Programmer(s)": "Markus Stein",
+    "Programmer(s)": [
+      "Markus Stein"
+    ],
     "Writer(s)": "Sam Lake",
     "Composer(s)": "Kärtsy Hatakka Kimmo Kajasto",
     "Series": "Max Payne",
@@ -4621,9 +5268,15 @@
     "Developer(s)": "Konami Computer Entertainment Japan",
     "Publisher(s)": "Konami",
     "Director(s)": "Hideo Kojima",
-    "Producer(s)": "Hideo Kojima",
-    "Designer(s)": "Hideo Kojima",
-    "Programmer(s)": "Kazunobu Uehara",
+    "Producer(s)": [
+      "Hideo Kojima"
+    ],
+    "Designer(s)": [
+      "Hideo Kojima"
+    ],
+    "Programmer(s)": [
+      "Kazunobu Uehara"
+    ],
     "Artist(s)": "Yoji Shinkawa",
     "Writer(s)": [
       "Hideo Kojima",
@@ -4654,12 +5307,21 @@
     "Publisher(s)": [
       "Sega"
     ],
-    "Director(s)": "Jun Kobayashi",
+    "Director(s)": [
+      "Jun Kobayashi"
+    ],
     "Producer(s)": "Tetsuya Mizuguchi",
-    "Designer(s)": "Hiroyuki Abe Katsuhiko Yamada",
-    "Programmer(s)": "Mitsuru Takahashi",
+    "Designer(s)": [
+      "Hiroyuki Abe",
+      "Katsuhiko Yamada"
+    ],
+    "Programmer(s)": [
+      "Mitsuru Takahashi"
+    ],
     "Artist(s)": "Katsumi Yokota",
-    "Composer(s)": "Keiichi Sugiyama",
+    "Composer(s)": [
+      "Keiichi Sugiyama"
+    ],
     "Engine": "In-house engine ( Rez ) Unreal Engine 4 ( Rez Infinite – Area X)",
     "Platform(s)": [
       "Dreamcast",
@@ -4687,9 +5349,15 @@
       "(Team Silent)"
     ],
     "Publisher(s)": "Konami",
-    "Director(s)": "Masashi Tsuboyama",
-    "Producer(s)": "Akihiro Imamura",
-    "Programmer(s)": "Takayuki Kobayashi",
+    "Director(s)": [
+      "Masashi Tsuboyama"
+    ],
+    "Producer(s)": [
+      "Akihiro Imamura"
+    ],
+    "Programmer(s)": [
+      "Takayuki Kobayashi"
+    ],
     "Artist(s)": "Masahiro Ito",
     "Writer(s)": "Hiroyuki Owaku",
     "Composer(s)": "Akira Yamaoka",
@@ -4715,8 +5383,12 @@
       "Masahiro Sakurai",
       "Hitoshi Kobayashi"
     ],
-    "Programmer(s)": "Yoshiki Suzuki",
-    "Artist(s)": "Hitoshi Kobayashi",
+    "Programmer(s)": [
+      "Yoshiki Suzuki"
+    ],
+    "Artist(s)": [
+      "Hitoshi Kobayashi"
+    ],
     "Composer(s)": [
       "Hirokazu Ando",
       "Shogo Sakai",
@@ -4742,10 +5414,19 @@
     "Developer(s)": "Bethesda Game Studios",
     "Publisher(s)": "Bethesda Softworks",
     "Director(s)": "Todd Howard",
-    "Producer(s)": "Ashley Cheng Todd Vaughn",
+    "Producer(s)": [
+      "Ashley Cheng",
+      "Todd Vaughn"
+    ],
     "Designer(s)": "Ken Rolston",
-    "Programmer(s)": "Craig Walton Guy Carver",
-    "Artist(s)": "Matthew Carofano Christiane H. K. Meister",
+    "Programmer(s)": [
+      "Craig Walton",
+      "Guy Carver"
+    ],
+    "Artist(s)": [
+      "Matthew Carofano",
+      "Christiane H. K. Meister"
+    ],
     "Writer(s)": [
       "Douglas Goodall",
       "Mark E. Nelson",
@@ -4778,9 +5459,13 @@
       "Adam Fowler",
       "Alexander Roger"
     ],
-    "Artist(s)": "Aaron Garbut",
+    "Artist(s)": [
+      "Aaron Garbut"
+    ],
     "Writer(s)": "Dan Houser James Worrall",
-    "Composer(s)": "Lex Horton",
+    "Composer(s)": [
+      "Lex Horton"
+    ],
     "Series": "Grand Theft Auto",
     "Engine": "RenderWare",
     "Platform(s)": [
@@ -4815,7 +5500,9 @@
       "Hiroshi Harata",
       "Kentarou Yasui"
     ],
-    "Artist(s)": "Tetsuya Nomura",
+    "Artist(s)": [
+      "Tetsuya Nomura"
+    ],
     "Writer(s)": [
       "Jun Akiyama",
       "Daisuke Watanabe",
@@ -4879,7 +5566,9 @@
       "Retro Studios",
       "Nintendo"
     ],
-    "Publisher(s)": "Nintendo",
+    "Publisher(s)": [
+      "Nintendo"
+    ],
     "Director(s)": "Mark Pacini",
     "Producer(s)": [
       "Shigeru Miyamoto",
@@ -4888,7 +5577,9 @@
       "Akira Otani",
       "Michael Mann"
     ],
-    "Programmer(s)": "Mark Johnston",
+    "Programmer(s)": [
+      "Mark Johnston"
+    ],
     "Artist(s)": [
       "Todd Keller",
       "James H. Dargie"
@@ -4909,11 +5600,22 @@
     "Title": "Soulcalibur II",
     "Developer(s)": "Project Soul",
     "Publisher(s)": "Namco",
-    "Director(s)": "Jin Okubo   Yoshitaka Tezuka",
-    "Producer(s)": "Hiroaki Yotoriyama",
-    "Programmer(s)": "Shinobu Nimura",
-    "Artist(s)": "Takuji Kawano",
-    "Writer(s)": "Yoshihiro Nakagawa",
+    "Director(s)": [
+      "Jin Okubo",
+      "Yoshitaka Tezuka"
+    ],
+    "Producer(s)": [
+      "Hiroaki Yotoriyama"
+    ],
+    "Programmer(s)": [
+      "Shinobu Nimura"
+    ],
+    "Artist(s)": [
+      "Takuji Kawano"
+    ],
+    "Writer(s)": [
+      "Yoshihiro Nakagawa"
+    ],
     "Composer(s)": "Junichi Nakatsuru Yoshihito Yano Asuka Sakai Rio Hamamoto",
     "Series": "Soulcalibur",
     "Platform(s)": [
@@ -4947,8 +5649,12 @@
     ],
     "Producer(s)": "Mathieu Ferland Reid Schneider",
     "Designer(s)": "Nathan Wolff Clint Hocking",
-    "Programmer(s)": "Antoine Dodens",
-    "Artist(s)": "Hugo Dallaire",
+    "Programmer(s)": [
+      "Antoine Dodens"
+    ],
+    "Artist(s)": [
+      "Hugo Dallaire"
+    ],
     "Writer(s)": "J.T. Petty Clint Hocking",
     "Composer(s)": "Michael Richard Plowman",
     "Series": "Tom Clancy's Splinter Cell",
@@ -4978,10 +5684,21 @@
     ],
     "Publisher(s)": "Ubisoft",
     "Director(s)": "Michel Ancel",
-    "Producer(s)": "Yves Guillemot",
-    "Designer(s)": "Michel Ancel Sébastien Morin",
-    "Artist(s)": "Florent Sacré Paul Tumelaire",
-    "Writer(s)": "Michel Ancel Jacques Exertier",
+    "Producer(s)": [
+      "Yves Guillemot"
+    ],
+    "Designer(s)": [
+      "Michel Ancel",
+      "Sébastien Morin"
+    ],
+    "Artist(s)": [
+      "Florent Sacré",
+      "Paul Tumelaire"
+    ],
+    "Writer(s)": [
+      "Michel Ancel",
+      "Jacques Exertier"
+    ],
     "Composer(s)": "Christophe Héral",
     "Engine": "Jade",
     "Platform(s)": [
@@ -5012,10 +5729,18 @@
     "Title": "Max Payne 2: The Fall of Max Payne",
     "Developer(s)": "Remedy Entertainment",
     "Publisher(s)": "Rockstar Games",
-    "Director(s)": "Markus Mäki",
-    "Designer(s)": "Petri Järvilehto",
-    "Programmer(s)": "Kim Salo",
-    "Artist(s)": "Saku Lehtinen",
+    "Director(s)": [
+      "Markus Mäki"
+    ],
+    "Designer(s)": [
+      "Petri Järvilehto"
+    ],
+    "Programmer(s)": [
+      "Kim Salo"
+    ],
+    "Artist(s)": [
+      "Saku Lehtinen"
+    ],
     "Writer(s)": "Sam Lake",
     "Composer(s)": "Kärtsy Hatakka Kimmo Kajasto",
     "Series": "Max Payne",
@@ -5039,11 +5764,19 @@
     ],
     "Publisher(s)": "Ubisoft",
     "Director(s)": "Patrice Désilets",
-    "Producer(s)": "Yannis Mallat",
+    "Producer(s)": [
+      "Yannis Mallat"
+    ],
     "Designer(s)": "Jordan Mechner",
-    "Programmer(s)": "Claude Langlais",
-    "Artist(s)": "Raphaël Lacoste",
-    "Writer(s)": "Jordan Mechner",
+    "Programmer(s)": [
+      "Claude Langlais"
+    ],
+    "Artist(s)": [
+      "Raphaël Lacoste"
+    ],
+    "Writer(s)": [
+      "Jordan Mechner"
+    ],
     "Composer(s)": "Stuart Chatwood",
     "Series": "Prince of Persia",
     "Engine": "Jade",
@@ -5082,10 +5815,16 @@
     "Developer(s)": "BioWare",
     "Publisher(s)": "LucasArts",
     "Director(s)": "Casey Hudson",
-    "Producer(s)": "Casey Hudson",
+    "Producer(s)": [
+      "Casey Hudson"
+    ],
     "Designer(s)": "James Ohlen",
-    "Programmer(s)": "David Falkner",
-    "Artist(s)": "Derek Watts",
+    "Programmer(s)": [
+      "David Falkner"
+    ],
+    "Artist(s)": [
+      "Derek Watts"
+    ],
     "Writer(s)": "Drew Karpyshyn",
     "Composer(s)": "Jeremy Soule",
     "Series": "Star Wars: Knights of the Old Republic",
@@ -5107,12 +5846,27 @@
     "Title": "WarioWare, Inc.: Mega Microgames!",
     "Developer(s)": "Nintendo R&D1",
     "Publisher(s)": "Nintendo",
-    "Director(s)": "Hirofumi Matsuoka",
-    "Producer(s)": "Takehiro Izushi",
-    "Designer(s)": "Ko Takeuchi Goro Abe Ryutaro Takahashi",
-    "Programmer(s)": "Kazuyoshi Ohsawa",
-    "Artist(s)": "Ko Takeuchi",
-    "Composer(s)": "Ryoji Yoshitomi Kyoko Miyamoto",
+    "Director(s)": [
+      "Hirofumi Matsuoka"
+    ],
+    "Producer(s)": [
+      "Takehiro Izushi"
+    ],
+    "Designer(s)": [
+      "Ko Takeuchi",
+      "Goro Abe",
+      "Ryutaro Takahashi"
+    ],
+    "Programmer(s)": [
+      "Kazuyoshi Ohsawa"
+    ],
+    "Artist(s)": [
+      "Ko Takeuchi"
+    ],
+    "Composer(s)": [
+      "Ryoji Yoshitomi",
+      "Kyoko Miyamoto"
+    ],
     "Series": "Wario",
     "Platform(s)": "Game Boy Advance",
     "Release": [
@@ -5132,15 +5886,23 @@
     "Title": "Burnout 3: Takedown",
     "Developer(s)": "Criterion Games",
     "Publisher(s)": "EA Games",
-    "Director(s)": "Alex Ward",
+    "Director(s)": [
+      "Alex Ward"
+    ],
     "Producer(s)": "Siobhan Reddy Rupert Brooker",
     "Designer(s)": [
       "Paul Cross",
       "Chris Roberts"
     ],
-    "Programmer(s)": "Richard Parr",
-    "Artist(s)": "Michael Williamson",
-    "Composer(s)": "Stephen Root",
+    "Programmer(s)": [
+      "Richard Parr"
+    ],
+    "Artist(s)": [
+      "Michael Williamson"
+    ],
+    "Composer(s)": [
+      "Stephen Root"
+    ],
     "Series": "Burnout",
     "Engine": "RenderWare",
     "Platform(s)": [
@@ -5165,11 +5927,20 @@
     ],
     "Publisher(s)": "Square Enix",
     "Director(s)": "Akihiro Hino",
-    "Producer(s)": "Ryutaro Ichimura Yoshiki Watabe",
+    "Producer(s)": [
+      "Ryutaro Ichimura",
+      "Yoshiki Watabe"
+    ],
     "Designer(s)": "Yuji Horii",
-    "Programmer(s)": "Yasuhiro Akasaka",
+    "Programmer(s)": [
+      "Yasuhiro Akasaka"
+    ],
     "Artist(s)": "Akira Toriyama Takayuki Sameshima Kazunari Matsuo",
-    "Writer(s)": "Yuji Horii Jin Fujisawa Atsushi Narita",
+    "Writer(s)": [
+      "Yuji Horii",
+      "Jin Fujisawa",
+      "Atsushi Narita"
+    ],
     "Composer(s)": "Koichi Sugiyama",
     "Series": "Dragon Quest",
     "Platform(s)": [
@@ -5193,7 +5964,9 @@
       "Adam Fowler",
       "Obbe Vermeij"
     ],
-    "Artist(s)": "Aaron Garbut",
+    "Artist(s)": [
+      "Aaron Garbut"
+    ],
     "Writer(s)": [
       "Dan Houser",
       "James Worrall",
@@ -5226,7 +5999,9 @@
   {
     "Title": "Half-Life 2",
     "Developer(s)": "Valve",
-    "Publisher(s)": "Valve",
+    "Publisher(s)": [
+      "Valve"
+    ],
     "Artist(s)": "Viktor Antonov",
     "Writer(s)": "Marc Laidlaw",
     "Composer(s)": "Kelly Bailey",
@@ -5252,8 +6027,12 @@
     "Developer(s)": "Bungie",
     "Publisher(s)": "Microsoft Game Studios",
     "Director(s)": "Jason Jones",
-    "Designer(s)": "Jaime Griesemer",
-    "Artist(s)": "Marcus Lehto",
+    "Designer(s)": [
+      "Jaime Griesemer"
+    ],
+    "Artist(s)": [
+      "Marcus Lehto"
+    ],
     "Writer(s)": "Joseph Staten",
     "Composer(s)": [
       "Martin O'Donnell",
@@ -5279,14 +6058,20 @@
   {
     "Title": "Katamari Damacy",
     "Developer(s)": "Namco",
-    "Publisher(s)": "Namco",
+    "Publisher(s)": [
+      "Namco"
+    ],
     "Director(s)": "Keita Takahashi",
     "Producer(s)": [
       "Hideki Tomida",
       "Mitsumasa Fujita"
     ],
-    "Designer(s)": "Masatoshi Ogita",
-    "Programmer(s)": "Kazumi Yamabe",
+    "Designer(s)": [
+      "Masatoshi Ogita"
+    ],
+    "Programmer(s)": [
+      "Kazumi Yamabe"
+    ],
     "Artist(s)": [
       "Keita Takahashi",
       "Takashi Yoshida",
@@ -5318,9 +6103,15 @@
     "Developer(s)": "Konami Computer Entertainment Japan",
     "Publisher(s)": "Konami",
     "Director(s)": "Hideo Kojima",
-    "Producer(s)": "Hideo Kojima",
-    "Designer(s)": "Hideo Kojima",
-    "Programmer(s)": "Kazunobu Uehara",
+    "Producer(s)": [
+      "Hideo Kojima"
+    ],
+    "Designer(s)": [
+      "Hideo Kojima"
+    ],
+    "Programmer(s)": [
+      "Kazunobu Uehara"
+    ],
     "Artist(s)": "Yoji Shinkawa",
     "Writer(s)": "Hideo Kojima Tomokazu Fukushima Shuyo Murata",
     "Composer(s)": [
@@ -5349,7 +6140,9 @@
       "Sega (current)",
       "Feral Interactive (Mac OS X, iOS, Android)"
     ],
-    "Director(s)": "Michael M. Simpson",
+    "Director(s)": [
+      "Michael M. Simpson"
+    ],
     "Designer(s)": [
       "Robert T. Smith",
       "Mike Brunton",
@@ -5382,13 +6175,17 @@
   {
     "Title": "World of Warcraft",
     "Developer(s)": "Blizzard Entertainment",
-    "Publisher(s)": "Blizzard Entertainment",
+    "Publisher(s)": [
+      "Blizzard Entertainment"
+    ],
     "Designer(s)": [
       "Rob Pardo",
       "Jeff Kaplan",
       "Tom Chilton"
     ],
-    "Composer(s)": "Jason Hayes",
+    "Composer(s)": [
+      "Jason Hayes"
+    ],
     "Series": "Warcraft",
     "Platform(s)": [
       "Microsoft Windows",
@@ -5409,10 +6206,16 @@
       "Aspyr"
     ],
     "Director(s)": "Sid Meier",
-    "Producer(s)": "Barry Caudill",
+    "Producer(s)": [
+      "Barry Caudill"
+    ],
     "Designer(s)": "Soren Johnson",
-    "Programmer(s)": "Soren Johnson",
-    "Artist(s)": "Steve Ogden",
+    "Programmer(s)": [
+      "Soren Johnson"
+    ],
+    "Artist(s)": [
+      "Steve Ogden"
+    ],
     "Composer(s)": [
       "Jeffery L. Briggs",
       "Christopher Tin"
@@ -5439,10 +6242,16 @@
   {
     "Title": "Devil May Cry 3: Dante's Awakening",
     "Developer(s)": "Capcom",
-    "Publisher(s)": "Capcom",
+    "Publisher(s)": [
+      "Capcom"
+    ],
     "Director(s)": "Hideaki Itsuno",
-    "Producer(s)": "Tsuyoshi Tanaka",
-    "Artist(s)": "Daigo Ikeno",
+    "Producer(s)": [
+      "Tsuyoshi Tanaka"
+    ],
+    "Artist(s)": [
+      "Daigo Ikeno"
+    ],
     "Writer(s)": "Bingo Morihashi Takayasu Yanagihara",
     "Composer(s)": "Tetsuya Shibata",
     "Series": "Devil May Cry",
@@ -5472,9 +6281,15 @@
     "Developer(s)": "Santa Monica Studio",
     "Publisher(s)": "Sony Computer Entertainment",
     "Director(s)": "David Jaffe",
-    "Producer(s)": "Shannon Studstill",
-    "Designer(s)": "David Jaffe",
-    "Programmer(s)": "Tim Moss",
+    "Producer(s)": [
+      "Shannon Studstill"
+    ],
+    "Designer(s)": [
+      "David Jaffe"
+    ],
+    "Programmer(s)": [
+      "Tim Moss"
+    ],
     "Artist(s)": [
       "Charlie Wen",
       "Terry Smith",
@@ -5512,7 +6327,9 @@
       "RedOctane",
       "Harmonix"
     ],
-    "Director(s)": "Greg LoPiccolo",
+    "Director(s)": [
+      "Greg LoPiccolo"
+    ],
     "Designer(s)": [
       "Harmonix",
       "Ryan Lesser"
@@ -5538,7 +6355,9 @@
     "Developer(s)": "Double Fine Productions",
     "Publisher(s)": "Majesco Sales",
     "Director(s)": "Tim Schafer",
-    "Designer(s)": "Erik Robson",
+    "Designer(s)": [
+      "Erik Robson"
+    ],
     "Programmer(s)": "David Dixon Kee Chi Anna Kipnis Brad Muir",
     "Artist(s)": [
       "Scott Campbell",
@@ -5574,9 +6393,15 @@
       "Kouji Kakae",
       "Shigenori Nishikawa"
     ],
-    "Programmer(s)": "Kiyohiko Sakata",
-    "Writer(s)": "Shinji Mikami",
-    "Composer(s)": "Misao Senbongi",
+    "Programmer(s)": [
+      "Kiyohiko Sakata"
+    ],
+    "Writer(s)": [
+      "Shinji Mikami"
+    ],
+    "Composer(s)": [
+      "Misao Senbongi"
+    ],
     "Series": "Resident Evil",
     "Platform(s)": [
       "GameCube"
@@ -5662,11 +6487,20 @@
       "THQ",
       "Feral Interactive"
     ],
-    "Producer(s)": "John Johnson",
+    "Producer(s)": [
+      "John Johnson"
+    ],
     "Designer(s)": "Josh Mosqueira Quinn Duffy Erin Daly Brian Wood",
-    "Programmer(s)": "Drew Dunlop",
-    "Artist(s)": "Angie Radwan-Pytlewski",
-    "Writer(s)": "Duane Pye Paris Qualles",
+    "Programmer(s)": [
+      "Drew Dunlop"
+    ],
+    "Artist(s)": [
+      "Angie Radwan-Pytlewski"
+    ],
+    "Writer(s)": [
+      "Duane Pye",
+      "Paris Qualles"
+    ],
     "Composer(s)": "Jeremy Soule",
     "Engine": "Essence Engine",
     "Platform(s)": [
@@ -5692,13 +6526,17 @@
       "Bethesda Softworks",
       "2K Games"
     ],
-    "Producer(s)": "Ashley Cheng",
+    "Producer(s)": [
+      "Ashley Cheng"
+    ],
     "Designer(s)": "Ken Rolston",
     "Programmer(s)": [
       "Guy Carver",
       "Craig Walton"
     ],
-    "Artist(s)": "Matthew Carofano",
+    "Artist(s)": [
+      "Matthew Carofano"
+    ],
     "Composer(s)": "Jeremy Soule",
     "Series": "The Elder Scrolls",
     "Engine": "Gamebryo",
@@ -5719,7 +6557,9 @@
     "Publisher(s)": "Microsoft Game Studios",
     "Producer(s)": "Rod Fergusson",
     "Designer(s)": "Cliff Bleszinski",
-    "Programmer(s)": "Ray Davis",
+    "Programmer(s)": [
+      "Ray Davis"
+    ],
     "Artist(s)": "Jeremiah O'Flaherty Chris Perna",
     "Writer(s)": "Susan O'Connor Eric Nylund",
     "Composer(s)": "Kevin Riepl",
@@ -5747,10 +6587,18 @@
     "Title": "Hitman: Blood Money",
     "Developer(s)": "IO Interactive",
     "Publisher(s)": "Eidos Interactive",
-    "Director(s)": "Rasmus Højengaard",
-    "Producer(s)": "Helle Marijnissen",
-    "Artist(s)": "Tore Blystad",
-    "Writer(s)": "Greg Nagan",
+    "Director(s)": [
+      "Rasmus Højengaard"
+    ],
+    "Producer(s)": [
+      "Helle Marijnissen"
+    ],
+    "Artist(s)": [
+      "Tore Blystad"
+    ],
+    "Writer(s)": [
+      "Greg Nagan"
+    ],
     "Composer(s)": "Jesper Kyd",
     "Series": "Hitman",
     "Platform(s)": [
@@ -5773,8 +6621,12 @@
     "Publisher(s)": "Capcom",
     "Director(s)": "Hideki Kamiya",
     "Producer(s)": "Atsushi Inaba",
-    "Designer(s)": "Hiroshi Shibata",
-    "Programmer(s)": "Ryuta Takahashi",
+    "Designer(s)": [
+      "Hiroshi Shibata"
+    ],
+    "Programmer(s)": [
+      "Ryuta Takahashi"
+    ],
     "Artist(s)": [
       "Sawaki Takeyasu",
       "Kenichiro Yoshimura",
@@ -5782,7 +6634,9 @@
       "Naoki Katakai",
       "Ikumi Nakamura"
     ],
-    "Writer(s)": "Hideki Kamiya",
+    "Writer(s)": [
+      "Hideki Kamiya"
+    ],
     "Composer(s)": "Masami Ueda Hiroshi Yamaguchi Rei Kondoh Akari Kaida",
     "Platform(s)": [
       "PlayStation 2, Wii",
@@ -5805,8 +6659,12 @@
       "Yoshikazu Yamashita"
     ],
     "Producer(s)": "Katsuya Eguchi Kiyoshi Mizuki",
-    "Designer(s)": "Junji Morii",
-    "Programmer(s)": "Tsutomu Kaneshige",
+    "Designer(s)": [
+      "Junji Morii"
+    ],
+    "Programmer(s)": [
+      "Tsutomu Kaneshige"
+    ],
     "Composer(s)": "Kazumi Totaka",
     "Series": "Wii",
     "Platform(s)": "Wii",
@@ -5831,13 +6689,19 @@
     ],
     "Publisher(s)": "2K Games",
     "Director(s)": "Ken Levine",
-    "Designer(s)": "Paul Hellquist",
+    "Designer(s)": [
+      "Paul Hellquist"
+    ],
     "Programmer(s)": [
       "Rowan Wyborn",
       "Christopher Kline"
     ],
-    "Artist(s)": "Scott Sinclair",
-    "Writer(s)": "Ken Levine",
+    "Artist(s)": [
+      "Scott Sinclair"
+    ],
+    "Writer(s)": [
+      "Ken Levine"
+    ],
     "Composer(s)": "Garry Schyman",
     "Series": "BioShock",
     "Engine": "Unreal Engine 2.5",
@@ -5862,7 +6726,9 @@
     "Developer(s)": "Infinity Ward",
     "Publisher(s)": "Activision",
     "Director(s)": "Jason West",
-    "Producer(s)": "Mark Rubin",
+    "Producer(s)": [
+      "Mark Rubin"
+    ],
     "Designer(s)": [
       "Todd Alderman",
       "Steve Fukuda",
@@ -5881,7 +6747,9 @@
       "Joel Emslie",
       "Robert Gaines"
     ],
-    "Writer(s)": "Jesse Stern",
+    "Writer(s)": [
+      "Jesse Stern"
+    ],
     "Composer(s)": "Stephen Barton",
     "Series": "Call of Duty",
     "Engine": "IW 3.0",
@@ -5909,9 +6777,15 @@
       "Cory Barlog",
       "David Jaffe"
     ],
-    "Producer(s)": "Steve Caterson",
-    "Designer(s)": "Cory Barlog",
-    "Programmer(s)": "Tim Moss",
+    "Producer(s)": [
+      "Steve Caterson"
+    ],
+    "Designer(s)": [
+      "Cory Barlog"
+    ],
+    "Programmer(s)": [
+      "Tim Moss"
+    ],
     "Artist(s)": "Stig Asmussen",
     "Writer(s)": "Cory Barlog James Barlog Marianne Krawczyk",
     "Composer(s)": [
@@ -5937,7 +6811,9 @@
     "Title": "Halo 3",
     "Developer(s)": "Bungie",
     "Publisher(s)": "Microsoft Game Studios",
-    "Artist(s)": "Marcus Lehto",
+    "Artist(s)": [
+      "Marcus Lehto"
+    ],
     "Writer(s)": "Joseph Staten",
     "Composer(s)": [
       "Martin O'Donnell",
@@ -5972,9 +6848,15 @@
       "Electronic Arts (PC, PS3)"
     ],
     "Director(s)": "Casey Hudson",
-    "Designer(s)": "Preston Watamaniuk",
-    "Programmer(s)": "David Falkner",
-    "Artist(s)": "Derek Watts",
+    "Designer(s)": [
+      "Preston Watamaniuk"
+    ],
+    "Programmer(s)": [
+      "David Falkner"
+    ],
+    "Artist(s)": [
+      "Derek Watts"
+    ],
     "Writer(s)": "Drew Karpyshyn",
     "Composer(s)": [
       "Jack Wall",
@@ -5998,7 +6880,9 @@
   {
     "Title": "Portal",
     "Developer(s)": "Valve",
-    "Publisher(s)": "Valve",
+    "Publisher(s)": [
+      "Valve"
+    ],
     "Designer(s)": "Kim Swift",
     "Writer(s)": [
       "Erik Wolpaw",
@@ -6031,7 +6915,11 @@
       "Pi Studios"
     ],
     "Publisher(s)": "MTV Games",
-    "Designer(s)": "Greg LoPiccolo, Rob Kay, Dan Teasdale",
+    "Designer(s)": [
+      "Greg LoPiccolo",
+      "Rob Kay",
+      "Dan Teasdale"
+    ],
     "Series": "Rock Band",
     "Platform(s)": [
       "Xbox 360",
@@ -6073,8 +6961,12 @@
       "Naoki Koga",
       "Takeshi Hayakawa"
     ],
-    "Artist(s)": "Kenta Motokura",
-    "Writer(s)": "Takayuki Ikkaku",
+    "Artist(s)": [
+      "Kenta Motokura"
+    ],
+    "Writer(s)": [
+      "Takayuki Ikkaku"
+    ],
     "Composer(s)": [
       "Mahito Yokota",
       "Koji Kondo"
@@ -6103,7 +6995,9 @@
   {
     "Title": "Team Fortress 2",
     "Developer(s)": "Valve",
-    "Publisher(s)": "Valve",
+    "Publisher(s)": [
+      "Valve"
+    ],
     "Designer(s)": "John Cook Robin Walker",
     "Composer(s)": "Mike Morasky",
     "Engine": "Source",
@@ -6167,11 +7061,25 @@
     "Title": "Burnout Paradise",
     "Developer(s)": "Criterion Games",
     "Publisher(s)": "Electronic Arts",
-    "Director(s)": "Alex Ward",
-    "Producer(s)": "Peter Lake San Shepherd Matt Webster Hamish Young",
-    "Designer(s)": "Craig Sullivan",
-    "Programmer(s)": "Olly Read Paul Ross",
-    "Artist(s)": "Steve Uphill",
+    "Director(s)": [
+      "Alex Ward"
+    ],
+    "Producer(s)": [
+      "Peter Lake",
+      "San Shepherd",
+      "Matt Webster",
+      "Hamish Young"
+    ],
+    "Designer(s)": [
+      "Craig Sullivan"
+    ],
+    "Programmer(s)": [
+      "Olly Read",
+      "Paul Ross"
+    ],
+    "Artist(s)": [
+      "Steve Uphill"
+    ],
     "Series": "Burnout",
     "Engine": "RenderWare",
     "Platform(s)": [
@@ -6206,9 +7114,15 @@
     "Publisher(s)": "Electronic Arts",
     "Director(s)": "Michael Condrey Bret Robbins",
     "Producer(s)": "Glen Schofield Chuck Beaver Steve Papoutsis",
-    "Designer(s)": "Paul Mathus",
-    "Programmer(s)": "Steve Timson",
-    "Artist(s)": "Ian Milham",
+    "Designer(s)": [
+      "Paul Mathus"
+    ],
+    "Programmer(s)": [
+      "Steve Timson"
+    ],
+    "Artist(s)": [
+      "Ian Milham"
+    ],
     "Writer(s)": [
       "Warren Ellis",
       "Rick Remender",
@@ -6245,7 +7159,9 @@
       "Steve Meister"
     ],
     "Artist(s)": "Istvan Pely",
-    "Writer(s)": "Emil Pagliarulo",
+    "Writer(s)": [
+      "Emil Pagliarulo"
+    ],
     "Composer(s)": "Inon Zur",
     "Series": "Fallout",
     "Engine": "Gamebryo",
@@ -6267,14 +7183,21 @@
     "Publisher(s)": "Microsoft Game Studios",
     "Producer(s)": "Rod Fergusson",
     "Designer(s)": "Cliff Bleszinski",
-    "Programmer(s)": "Ray Davis",
+    "Programmer(s)": [
+      "Ray Davis"
+    ],
     "Artist(s)": "Chris Perna",
     "Writer(s)": "Joshua Ortega",
     "Composer(s)": "Steve Jablonsky",
     "Series": "Gears of War",
     "Engine": "Unreal Engine 3",
     "Platform(s)": "Xbox 360",
-    "Release": "WW: November 7, 2008 JP: July 30, 2009",
+    "Release": [
+      "WW: November 7",
+      "2008",
+      "JP: July 30",
+      "2009"
+    ],
     "Genre(s)": "Third-person shooter",
     "Mode(s)": [
       "Single-player",
@@ -6291,7 +7214,9 @@
       "Alexander Roger",
       "Obbe Vermeij"
     ],
-    "Artist(s)": "Aaron Garbut",
+    "Artist(s)": [
+      "Aaron Garbut"
+    ],
     "Writer(s)": "Dan Houser Rupert Humphries",
     "Composer(s)": "Michael Hunter",
     "Series": "Grand Theft Auto",
@@ -6316,7 +7241,9 @@
     "Title": "Left 4 Dead",
     "Developer(s)": "Valve South",
     "Publisher(s)": "Valve",
-    "Designer(s)": "Mike Booth",
+    "Designer(s)": [
+      "Mike Booth"
+    ],
     "Writer(s)": "Chet Faliszek",
     "Composer(s)": "Mike Morasky",
     "Series": "Left 4 Dead",
@@ -6373,12 +7300,16 @@
       "WW: Sega (PC)"
     ],
     "Director(s)": "Katsura Hashino",
-    "Producer(s)": "Katsura Hashino",
+    "Producer(s)": [
+      "Katsura Hashino"
+    ],
     "Designer(s)": [
       "Atsushi Watanabe",
       "Azusa Kido"
     ],
-    "Programmer(s)": "Yujiro Kosaka",
+    "Programmer(s)": [
+      "Yujiro Kosaka"
+    ],
     "Artist(s)": "Shigenori Soejima Susumu Nishizawa",
     "Writer(s)": [
       "Yuichiro Tanaka",
@@ -6411,7 +7342,11 @@
       "Pi Studios"
     ],
     "Publisher(s)": "MTV Games",
-    "Designer(s)": "Dan Teasdale Sylvain Dubrofsky Casey Malone",
+    "Designer(s)": [
+      "Dan Teasdale",
+      "Sylvain Dubrofsky",
+      "Casey Malone"
+    ],
     "Series": "Rock Band",
     "Platform(s)": [
       "Xbox 360",
@@ -6438,10 +7373,15 @@
   },
   {
     "Title": "Spelunky",
-    "Developer(s)": "Mossmouth, LLC",
+    "Developer(s)": [
+      "Mossmouth",
+      "LLC"
+    ],
     "Publisher(s)": "Mossmouth, LLC Microsoft Studios (X360)",
     "Designer(s)": "Derek Yu",
-    "Programmer(s)": "Andy Hull",
+    "Programmer(s)": [
+      "Andy Hull"
+    ],
     "Composer(s)": [
       "Buzinkai",
       "Jonathan Perry",
@@ -6482,12 +7422,22 @@
       "Dimps",
       "Capcom"
     ],
-    "Publisher(s)": "Capcom",
-    "Director(s)": "Takashi Tsukamoto",
+    "Publisher(s)": [
+      "Capcom"
+    ],
+    "Director(s)": [
+      "Takashi Tsukamoto"
+    ],
     "Producer(s)": "Yoshinori Ono",
-    "Designer(s)": "Hirotoshi Shiozaki",
-    "Programmer(s)": "Ryosuke Nakano",
-    "Artist(s)": "Daigo Ikeno",
+    "Designer(s)": [
+      "Hirotoshi Shiozaki"
+    ],
+    "Programmer(s)": [
+      "Ryosuke Nakano"
+    ],
+    "Artist(s)": [
+      "Daigo Ikeno"
+    ],
     "Composer(s)": "Hideyuki Fukasawa",
     "Series": "Street Fighter",
     "Platform(s)": [
@@ -6526,13 +7476,19 @@
       "Sega",
       "Media.Vision (Remastered)"
     ],
-    "Publisher(s)": "Sega",
+    "Publisher(s)": [
+      "Sega"
+    ],
     "Director(s)": [
       "Shuntaro Tanaka",
       "Takaharu Terada"
     ],
-    "Producer(s)": "Ryutaro Nonaka",
-    "Designer(s)": "Takeshi Ozawa",
+    "Producer(s)": [
+      "Ryutaro Nonaka"
+    ],
+    "Designer(s)": [
+      "Takeshi Ozawa"
+    ],
     "Artist(s)": [
       "Raita Honjou",
       "Hirotaka Kanazawa"
@@ -6562,10 +7518,20 @@
       "Chillingo",
       "Rovio Entertainment"
     ],
-    "Producer(s)": "Raine Mäki Harro Grönberg Mikko Häkkinen",
-    "Designer(s)": "Jaakko Iisalo",
-    "Programmer(s)": "Tuomo Lehtinen",
-    "Artist(s)": "Tuomas Erikoinen",
+    "Producer(s)": [
+      "Raine Mäki",
+      "Harro Grönberg",
+      "Mikko Häkkinen"
+    ],
+    "Designer(s)": [
+      "Jaakko Iisalo"
+    ],
+    "Programmer(s)": [
+      "Tuomo Lehtinen"
+    ],
+    "Artist(s)": [
+      "Tuomas Erikoinen"
+    ],
     "Composer(s)": "Ari Pulkkinen",
     "Series": "Angry Birds",
     "Engine": [
@@ -6600,8 +7566,12 @@
       "Patrick Plourde",
       "Olivier Palmieri"
     ],
-    "Programmer(s)": "James Therien",
-    "Artist(s)": "Mohamed Gambouz",
+    "Programmer(s)": [
+      "James Therien"
+    ],
+    "Artist(s)": [
+      "Mohamed Gambouz"
+    ],
     "Writer(s)": [
       "Corey May",
       "Joshua Rubin",
@@ -6647,8 +7617,12 @@
       "Daniel Bailie",
       "Nathan Burlow"
     ],
-    "Programmer(s)": "Ben Wyatt",
-    "Artist(s)": "David Hego",
+    "Programmer(s)": [
+      "Ben Wyatt"
+    ],
+    "Artist(s)": [
+      "David Hego"
+    ],
     "Writer(s)": "Paul Dini",
     "Composer(s)": "Nick Arundel Ron Fish",
     "Series": "Batman: Arkham",
@@ -6682,8 +7656,12 @@
       "Hiroshi Shibata",
       "Masaaki Yamada"
     ],
-    "Artist(s)": "Mari Shimazaki",
-    "Writer(s)": "Hideki Kamiya",
+    "Artist(s)": [
+      "Mari Shimazaki"
+    ],
+    "Writer(s)": [
+      "Hideki Kamiya"
+    ],
     "Composer(s)": [
       "List of composers"
     ],
@@ -6720,8 +7698,12 @@
       "Mike Laidlaw",
       "James Ohlen"
     ],
-    "Programmer(s)": "Ross Gardner",
-    "Artist(s)": "Dean Andersen",
+    "Programmer(s)": [
+      "Ross Gardner"
+    ],
+    "Artist(s)": [
+      "Dean Andersen"
+    ],
     "Writer(s)": "David Gaider",
     "Composer(s)": "Inon Zur",
     "Series": "Dragon Age",
@@ -6741,12 +7723,16 @@
   {
     "Title": "Left 4 Dead 2",
     "Developer(s)": "Valve",
-    "Publisher(s)": "Valve",
+    "Publisher(s)": [
+      "Valve"
+    ],
     "Director(s)": "Erik Johnson",
     "Producer(s)": [
       "Gabe Newell"
     ],
-    "Designer(s)": "Michael Booth",
+    "Designer(s)": [
+      "Michael Booth"
+    ],
     "Writer(s)": "Chet Faliszek",
     "Composer(s)": "Mike Morasky",
     "Series": "Left 4 Dead",
@@ -6807,13 +7793,19 @@
     "Title": "Limbo",
     "Developer(s)": "Playdead",
     "Publisher(s)": "Playdead Microsoft Game Studios (X360)",
-    "Director(s)": "Arnt Jensen",
+    "Director(s)": [
+      "Arnt Jensen"
+    ],
     "Producer(s)": [
       "Dino Christian Patti",
       "Mads Wibroe"
     ],
-    "Designer(s)": "Jeppe Carlsen",
-    "Programmer(s)": "Thomas Krog",
+    "Designer(s)": [
+      "Jeppe Carlsen"
+    ],
+    "Programmer(s)": [
+      "Thomas Krog"
+    ],
     "Artist(s)": [
       "Morten Christian Bramsen",
       "Stine Sørensen"
@@ -6853,9 +7845,15 @@
       "Jesse Houston",
       "Nathan Plewes"
     ],
-    "Designer(s)": "Preston Watamaniuk",
-    "Programmer(s)": "David Falkner",
-    "Artist(s)": "Derek Watts",
+    "Designer(s)": [
+      "Preston Watamaniuk"
+    ],
+    "Programmer(s)": [
+      "David Falkner"
+    ],
+    "Artist(s)": [
+      "Derek Watts"
+    ],
     "Writer(s)": "Mac Walters Drew Karpyshyn",
     "Composer(s)": [
       "Jack Wall",
@@ -6892,7 +7890,9 @@
       "Christian Cantamessa",
       "Leslie Benzies"
     ],
-    "Programmer(s)": "Ted Carson",
+    "Programmer(s)": [
+      "Ted Carson"
+    ],
     "Artist(s)": [
       "Joshua Bass",
       "Daren Bader",
@@ -6950,10 +7950,17 @@
   {
     "Title": "StarCraft II: Wings of Liberty",
     "Developer(s)": "Blizzard Entertainment",
-    "Publisher(s)": "Blizzard Entertainment",
-    "Producer(s)": "Chris Sigaty",
+    "Publisher(s)": [
+      "Blizzard Entertainment"
+    ],
+    "Producer(s)": [
+      "Chris Sigaty"
+    ],
     "Designer(s)": "Dustin Browder",
-    "Programmer(s)": "Carl Chimes Bob Fitch",
+    "Programmer(s)": [
+      "Carl Chimes",
+      "Bob Fitch"
+    ],
     "Artist(s)": "Samwise Didier",
     "Writer(s)": "Chris Metzen Andrew Chambers Brian Kindregan",
     "Composer(s)": [
@@ -6968,7 +7975,10 @@
       "Microsoft Windows",
       "macOS"
     ],
-    "Release": "July 27, 2010",
+    "Release": [
+      "July 27",
+      "2010"
+    ],
     "Genre(s)": "Real-time strategy",
     "Mode(s)": [
       "Single-player",
@@ -6979,14 +7989,22 @@
     "Title": "Super Mario Galaxy 2",
     "Developer(s)": "Nintendo EAD Tokyo",
     "Publisher(s)": "Nintendo",
-    "Director(s)": "Koichi Hayashida",
+    "Director(s)": [
+      "Koichi Hayashida"
+    ],
     "Producer(s)": [
       "Yoshiaki Koizumi",
       "Takashi Tezuka"
     ],
-    "Designer(s)": "Kenta Motokura",
-    "Programmer(s)": "Takeshi Hayakawa",
-    "Artist(s)": "Daisuke Watanabe",
+    "Designer(s)": [
+      "Kenta Motokura"
+    ],
+    "Programmer(s)": [
+      "Takeshi Hayakawa"
+    ],
+    "Artist(s)": [
+      "Daisuke Watanabe"
+    ],
     "Composer(s)": [
       "Mahito Yokota",
       "Ryo Nagamatsu",
@@ -7008,15 +8026,25 @@
   },
   {
     "Title": "Super Meat Boy",
-    "Developer(s)": "Team Meat",
-    "Publisher(s)": "Team Meat",
-    "Producer(s)": "Kevin Hathaway",
+    "Developer(s)": [
+      "Team Meat"
+    ],
+    "Publisher(s)": [
+      "Team Meat"
+    ],
+    "Producer(s)": [
+      "Kevin Hathaway"
+    ],
     "Designer(s)": [
       "Edmund McMillen",
       "Tommy Refenes"
     ],
-    "Programmer(s)": "Tommy Refenes",
-    "Artist(s)": "Edmund McMillen",
+    "Programmer(s)": [
+      "Tommy Refenes"
+    ],
+    "Artist(s)": [
+      "Edmund McMillen"
+    ],
     "Composer(s)": "Danny Baranowsky",
     "Platform(s)": [
       "Xbox 360",
@@ -7043,8 +8071,12 @@
       "Daniel Bailie",
       "Nathan Burlow"
     ],
-    "Programmer(s)": "Ben Wyatt",
-    "Artist(s)": "David Hego",
+    "Programmer(s)": [
+      "Ben Wyatt"
+    ],
+    "Artist(s)": [
+      "David Hego"
+    ],
     "Writer(s)": "Paul Dini Paul Crocker Sefton Hill",
     "Composer(s)": "Nick Arundel Ron Fish",
     "Series": "Batman: Arkham",
@@ -7076,8 +8108,12 @@
       "Daisuke Uchiyama",
       "Kei Hirono"
     ],
-    "Programmer(s)": "Jun Ito",
-    "Artist(s)": "Makoto Sato",
+    "Programmer(s)": [
+      "Jun Ito"
+    ],
+    "Artist(s)": [
+      "Makoto Sato"
+    ],
     "Composer(s)": "Motoi Sakuraba",
     "Series": "Souls",
     "Platform(s)": [
@@ -7111,9 +8147,15 @@
       "Kurt Kuhlmann",
       "Emil Pagliarulo"
     ],
-    "Programmer(s)": "Guy Carver",
-    "Artist(s)": "Matthew Carofano",
-    "Writer(s)": "Emil Pagliarulo",
+    "Programmer(s)": [
+      "Guy Carver"
+    ],
+    "Artist(s)": [
+      "Matthew Carofano"
+    ],
+    "Writer(s)": [
+      "Emil Pagliarulo"
+    ],
     "Composer(s)": "Jeremy Soule",
     "Series": "The Elder Scrolls",
     "Engine": "Creation Engine",
@@ -7172,8 +8214,12 @@
   {
     "Title": "Portal 2",
     "Developer(s)": "Valve",
-    "Publisher(s)": "Valve",
-    "Director(s)": "Joshua Weier",
+    "Publisher(s)": [
+      "Valve"
+    ],
+    "Director(s)": [
+      "Joshua Weier"
+    ],
     "Producer(s)": "Gabe Newell",
     "Artist(s)": [
       "Jeremy Bennett",
@@ -7215,7 +8261,9 @@
       "Hugues Tardif",
       "Stevan Hird"
     ],
-    "Artist(s)": "Sébastien Mitton",
+    "Artist(s)": [
+      "Sébastien Mitton"
+    ],
     "Writer(s)": [
       "Harvey Smith",
       "Austin Grossman",
@@ -7292,8 +8340,12 @@
     "Developer(s)": "Dennaton Games",
     "Publisher(s)": "Devolver Digital",
     "Designer(s)": "Jonatan Söderström Dennis Wedin",
-    "Programmer(s)": "Jonatan Söderström",
-    "Artist(s)": "Dennis Wedin",
+    "Programmer(s)": [
+      "Jonatan Söderström"
+    ],
+    "Artist(s)": [
+      "Dennis Wedin"
+    ],
     "Writer(s)": [
       "Jonatan Söderström",
       "Dennis Wedin"
@@ -7333,14 +8385,22 @@
   {
     "Title": "The Walking Dead",
     "Developer(s)": "Telltale Games",
-    "Publisher(s)": "Telltale Games",
+    "Publisher(s)": [
+      "Telltale Games"
+    ],
     "Director(s)": [
       "Sean Vanaman",
       "Jake Rodkin"
     ],
     "Designer(s)": "Sean Vanaman Jake Rodkin Mark Darin Harrison G. Pink Andrew Langley Sean Ainsworth",
-    "Programmer(s)": "Carl Muckenhoupt Randy Tudor Keenan Patterson",
-    "Artist(s)": "Derek Sakai",
+    "Programmer(s)": [
+      "Carl Muckenhoupt",
+      "Randy Tudor",
+      "Keenan Patterson"
+    ],
+    "Artist(s)": [
+      "Derek Sakai"
+    ],
     "Writer(s)": "Sean Vanaman Mark Darin Gary Whitta",
     "Composer(s)": "Jared Emerson-Johnson",
     "Series": "The Walking Dead",
@@ -7377,7 +8437,9 @@
   {
     "Title": "Dota 2",
     "Developer(s)": "Valve",
-    "Publisher(s)": "Valve",
+    "Publisher(s)": [
+      "Valve"
+    ],
     "Designer(s)": "IceFrog",
     "Writer(s)": [
       "Marc Laidlaw",
@@ -7410,8 +8472,12 @@
       "Leslie Benzies",
       "Imran Sarwar"
     ],
-    "Programmer(s)": "Adam Fowler",
-    "Artist(s)": "Aaron Garbut",
+    "Programmer(s)": [
+      "Adam Fowler"
+    ],
+    "Artist(s)": [
+      "Aaron Garbut"
+    ],
     "Writer(s)": "Dan Houser Rupert Humphries Michael Unsworth",
     "Composer(s)": [
       "Tangerine Dream",
@@ -7447,7 +8513,9 @@
       "Bruce Straley",
       "Neil Druckmann"
     ],
-    "Designer(s)": "Jacob Minkoff",
+    "Designer(s)": [
+      "Jacob Minkoff"
+    ],
     "Programmer(s)": [
       "Travis McIntosh",
       "Jason Gregory"
@@ -7456,7 +8524,9 @@
       "Erick Pangilinan",
       "Nate Wells"
     ],
-    "Writer(s)": "Neil Druckmann",
+    "Writer(s)": [
+      "Neil Druckmann"
+    ],
     "Composer(s)": "Gustavo Santaolalla",
     "Platform(s)": [
       "PlayStation 3",
@@ -7482,7 +8552,9 @@
     "Developer(s)": "Bungie",
     "Publisher(s)": "Activision (2014–2018) Bungie (2019–present)",
     "Director(s)": "Jason Jones",
-    "Producer(s)": "Jonty Barnes",
+    "Producer(s)": [
+      "Jonty Barnes"
+    ],
     "Designer(s)": "Lars Bakken Del Chafe III Liz M.E. Chung Tyson Green Ken Malcolm Sage Merrill Christopher Opdahl Alex Pfeiffer Luke Smith James Tsai",
     "Programmer(s)": [
       "Chris Butcher",
@@ -7521,9 +8593,15 @@
       "Masaaki Yamagiwa",
       "Teruyuki Toriyama"
     ],
-    "Designer(s)": "Kazuhiro Hamatani",
-    "Programmer(s)": "Jun Ito",
-    "Artist(s)": "Ryo Fujimaki",
+    "Designer(s)": [
+      "Kazuhiro Hamatani"
+    ],
+    "Programmer(s)": [
+      "Jun Ito"
+    ],
+    "Artist(s)": [
+      "Ryo Fujimaki"
+    ],
     "Composer(s)": [
       "Ryan Amon",
       "Tsukasa Saitoh",
@@ -7558,8 +8636,12 @@
       "Piotr Krzywonosiuk",
       "Jędrzej Mróz"
     ],
-    "Artist(s)": "Marian Chomiak",
-    "Writer(s)": "Marcin Blacha",
+    "Artist(s)": [
+      "Marian Chomiak"
+    ],
+    "Writer(s)": [
+      "Marcin Blacha"
+    ],
     "Composer(s)": "Marcin Przybyłowicz Mikołaj Stroiński",
     "Series": "The Witcher",
     "Engine": "REDengine 3",
@@ -7585,8 +8667,12 @@
   {
     "Title": "Inside",
     "Developer(s)": "Playdead",
-    "Publisher(s)": "Playdead",
-    "Director(s)": "Arnt Jensen",
+    "Publisher(s)": [
+      "Playdead"
+    ],
+    "Director(s)": [
+      "Arnt Jensen"
+    ],
     "Producer(s)": [
       "Arnt Jensen",
       "Dino Patti"
@@ -7623,7 +8709,9 @@
   {
     "Title": "Overwatch",
     "Developer(s)": "Blizzard Entertainment",
-    "Publisher(s)": "Blizzard Entertainment",
+    "Publisher(s)": [
+      "Blizzard Entertainment"
+    ],
     "Director(s)": [
       "Jeff Kaplan",
       "Chris Metzen",
@@ -7643,7 +8731,9 @@
       "Arnold Tsang"
     ],
     "Writer(s)": "Michael Chu Alyssa Wong",
-    "Composer(s)": "Derek Duke",
+    "Composer(s)": [
+      "Derek Duke"
+    ],
     "Platform(s)": [
       "Microsoft Windows",
       "PlayStation 4",
@@ -7674,7 +8764,9 @@
       "Takumi Wada",
       "Satoru Takizawa"
     ],
-    "Writer(s)": "Akihito Toda",
+    "Writer(s)": [
+      "Akihito Toda"
+    ],
     "Composer(s)": [
       "Manaka Kataoka",
       "Yasuaki Iwata",
@@ -7685,7 +8777,10 @@
       "Nintendo Switch",
       "Wii U"
     ],
-    "Release": "March 3, 2017",
+    "Release": [
+      "March 3",
+      "2017"
+    ],
     "Genre(s)": "Action-adventure",
     "Mode(s)": "Single-player"
   }
