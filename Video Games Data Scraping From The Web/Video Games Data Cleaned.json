@@ -307,7 +307,9 @@
       "June 6, 1981",
       "1981",
       "March 1983",
-      "May 3, 1982"
+      "May 3, 1982",
+      "February 1984",
+      "March 1984"
     ],
     "Genre(s)": "Fixed shooter",
     "Mode(s)": [
@@ -674,10 +676,10 @@
       "Irem"
     ],
     "Programmer(s)": [
-      "Shinichi Nakamoto (NES)"
+      "Shinichi Nakamoto(NES)"
     ],
     "Composer(s)": [
-      "Isamu Hirano (NES)"
+      "Isamu Hirano(NES)"
     ],
     "Platform(s)": [
       "Apple II",
@@ -2340,7 +2342,7 @@
       "Android"
     ],
     "Release": [
-      "May 5, 1992 (1992-05-05)"
+      "May 5, 1992(1992-05-05)"
     ],
     "Genre(s)": "First-person shooter",
     "Mode(s)": "Single-player"
@@ -3643,7 +3645,7 @@
       "February 29, 1996",
       "1996",
       "1997",
-      "January 1999",
+      "December 31, 1998",
       "1999"
     ],
     "Genre(s)": "Turn-based strategy",
@@ -3679,7 +3681,7 @@
     ],
     "Composer(s)": "Frank Klepacki",
     "Series": [
-      "Comm& Conquer: Red Alert"
+      "Comm& Conquer:Red Alert"
     ],
     "Platform(s)": [
       "MS-DOS",
@@ -4353,7 +4355,7 @@
     "Producer(s)": "Shigeru Miyamoto",
     "Designer(s)": "Shigeru Miyamoto",
     "Programmer(s)": [
-      "Kazuaki Morita "
+      "Kazuaki Morita"
     ],
     "Artist(s)": "Takaya Imamura",
     "Writer(s)": [
@@ -4881,7 +4883,9 @@
     "Title": "Homeworld",
     "Developer(s)": "Relic Entertainment",
     "Publisher(s)": "Sierra Studios",
-    "Director(s)": "Alex Garden",
+    "Director(s)": [
+      "Alex Garden"
+    ],
     "Producer(s)": [
       "Curtis Terry"
     ],
@@ -5091,7 +5095,11 @@
       "March 4, 1999",
       "March 21, 2001"
     ],
-    "Genre(s)": "Survival horror",
+    "Genre(s)": [
+      "Survival horror",
+      "Horror",
+      "Visual Novel"
+    ],
     "Mode(s)": "Single-player"
   },
   {
@@ -7157,6 +7165,7 @@
       "Erik Wolpaw"
     ],
     "Composer(s)": "Peter McConnell",
+    "Series": "Psychonauts",
     "Platform(s)": [
       "Microsoft Windows",
       "Xbox",
@@ -8301,14 +8310,14 @@
       "Switch"
     ],
     "Release": [
-      "WW: December 21, 2008",
-      "WW: August 8, 2013 (remake)",
-      "NA: July 4, 2012",
-      "EU: July 5, 2012",
-      "NA: August 27, 2013",
-      "EU: August 28, 2013",
-      "NA: October 7, 2014",
-      "EU: October 8, 2014"
+      "WW:December 21, 2008",
+      "WW:August 8, 2013(remake)",
+      "NA:July 4, 2012",
+      "EU:July 5, 2012",
+      "NA:August 27, 2013",
+      "EU:August 28, 2013",
+      "NA:October 7, 2014",
+      "EU:October 8, 2014"
     ],
     "Genre(s)": [
       "Platform",
@@ -8680,7 +8689,7 @@
       "Valve"
     ],
     "Director(s)": [
-      "Erik Johnson "
+      "Erik Johnson"
     ],
     "Producer(s)": [
       "Gabe Newell"
@@ -8745,7 +8754,6 @@
     ],
     "Genre(s)": [
       "Action-adventure",
-      "platformer",
       "third-person shooter"
     ],
     "Mode(s)": [
@@ -9179,9 +9187,9 @@
       "Nintendo Switch"
     ],
     "Release": [
-      "PC, PS3, Xbox 360",
+      "PC,PS3,Xbox 360",
       "November 11, 2011",
-      "PS4, Xbox One",
+      "PS4,Xbox One",
       "October 28, 2016",
       "Nintendo Switch",
       "November 17, 2017"
@@ -9539,7 +9547,7 @@
     "Release": [
       "Windows",
       "July 9, 2013",
-      "Linux, OS X",
+      "Linux,OS X",
       "July 18, 2013"
     ],
     "Genre(s)": "MOBA",
@@ -9743,11 +9751,11 @@
       "Nintendo Switch"
     ],
     "Release": [
-      "Windows, PS4, Xbox One",
+      "Windows,PS4,Xbox One",
       "19 May 2015",
       "Nintendo Switch",
       "15 October 2019",
-      "PS5, Xbox Series X/S",
+      "PS5,Xbox Series X/S",
       "Q3/Q4 2021"
     ],
     "Genre(s)": "Action role-playing",
@@ -9834,7 +9842,7 @@
       "Nintendo Switch"
     ],
     "Release": [
-      "Windows, PS4, Xbox One",
+      "Windows,PS4,Xbox One",
       "May 24, 2016",
       "Nintendo Switch",
       "October 15, 2019"
