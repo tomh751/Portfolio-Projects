@@ -1,4 +1,5 @@
-Hello! In this subfolder you can see all the files that i used for the making of this project, **exept for credential files, in order to keep all data secured.**
+Hello! In this subfolder you can see all the files that i used for the making of this project, **except for the credential json files, in order to keep all private
+data secured.**
 
 This project was created in order to help all my previous co-workers, including myslef, entring hours in a fast, simple and intuitive program. Since the departmant
 had many students (aproximitily 65), each person would have needed to enter the hours they can give each week into a large table inside of a Google Sheets file.
